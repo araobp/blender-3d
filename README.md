@@ -1,6 +1,6 @@
 # Blender 3D
  
-A collection of 3D models and 3D animations made with Blender.
+A collection of 3D models and 3D animations made with Blender by me.
 
 Static web site of this project:
 https://araobp.github.io/blender-3d/
