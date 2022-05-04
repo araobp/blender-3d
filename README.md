@@ -2,7 +2,9 @@
 
 (Work in progress)
 
-A collection of 3D models and 3D animations made with Blender by me.
+As a veteran ICT engineer, I want to be able to create 3D CG animations to explain ICT technologies.
+
+This repo is a collection of 3D models and 3D animations made with Blender by me.
 
 Static web site of this project:
 https://araobp.github.io/blender-3d/
@@ -13,6 +15,12 @@ https://araobp.github.io/blender-3d/
 
 - Make a collection of 3D models
 - Develop a React-based UI for the models, making use of three.js
+
+## 3D models
+
+- [My original 3D models](./my_original)
+- [Free 3D models from Mixamo etc (I made some modifications on those)](./modified)
+- [Tips](./tips)
 
 ### Data sources
 
