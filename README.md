@@ -2,7 +2,7 @@
 
 (Work in progress)
 
-As a vetran ICT engineer, I want to be able to create 3D CG animations to explain ICT technologies.
+As a veteran ICT engineer, I want to be able to create 3D CG animations to explain ICT technologies.
 
 This repo is a collection of 3D models and 3D animations made with Blender by me.
 
