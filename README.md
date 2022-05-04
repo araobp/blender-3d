@@ -18,10 +18,7 @@ https://araobp.github.io/blender-3d/
 
 - [My original 3D models](./my_original)
 - [Free 3D models from Mixamo etc (I made some modifications on those)](./modified)
-
-## Tips
-
-- [Sliding text](./tips/sliding_text.blend)
+- [Tips](./tips)
 
 ### Data sources
 
