@@ -14,6 +14,11 @@ https://araobp.github.io/blender-3d/
 - Make a collection of 3D models
 - Develop a React-based UI for the models, making use of three.js
 
+## 3D models
+
+- [My original 3D models](./my_original)
+- [Free 3D models from Mixamo etc (I made some modifications on those)](./modified)
+
 ## Tips
 
 - [Sliding text](./tips/sliding_text.blend)
