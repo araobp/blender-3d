@@ -11,11 +11,6 @@ https://araobp.github.io/blender-3d/
 
 <img src="./doc/walk.png" width=500>
 
-## Project goal
-
-- Make a collection of 3D models
-- Develop a React-based UI for the models, making use of three.js
-
 ## 3D models
 
 - [My original 3D models](./my_original)
@@ -27,4 +22,6 @@ https://araobp.github.io/blender-3d/
 In this project, I use free 3D models, 3D animation and textures from these sites:
 
 - Free 3D models and 3D animations: [Mixamo](https://www.mixamo.com/)
+- [Open IFC Model Repository](http://openifcmodel.cs.auckland.ac.nz/)
+- [3D Warehouse](https://3dwarehouse.sketchup.com/)
 - Free textures: [AmbientCG](https://ambientcg.com/)
