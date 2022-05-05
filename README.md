@@ -23,4 +23,5 @@ In this project, I use free 3D models, 3D animation and textures from these site
 
 - Free 3D models and 3D animations: [Mixamo](https://www.mixamo.com/)
 - [Open IFC Model Repository](http://openifcmodel.cs.auckland.ac.nz/)
+- [3D Warehouse](https://3dwarehouse.sketchup.com/)
 - Free textures: [AmbientCG](https://ambientcg.com/)
