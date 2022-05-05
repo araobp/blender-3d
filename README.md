@@ -22,4 +22,5 @@ https://araobp.github.io/blender-3d/
 In this project, I use free 3D models, 3D animation and textures from these sites:
 
 - Free 3D models and 3D animations: [Mixamo](https://www.mixamo.com/)
+- [Open IFC Model Repository](http://openifcmodel.cs.auckland.ac.nz/)
 - Free textures: [AmbientCG](https://ambientcg.com/)
