@@ -6,7 +6,7 @@ As a veteran ICT engineer, I want to be able to create 3D CG animations to expla
 
 This repo is a collection of 3D models and 3D animations made with Blender by me.
 
-Static web site of this project:
+Github pages (static web site) of this project:
 https://araobp.github.io/blender-3d/
 
 <img src="./doc/walk.png" width=500>
