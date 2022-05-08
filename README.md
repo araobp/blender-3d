@@ -7,6 +7,8 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 Github pages (static web site) of this project:
 https://araobp.github.io/blender-3d/
 
+<img src="./doc/AzumaHouse.png" width=500>
+
 <img src="./doc/walk.png" width=500>
 
 ## 3D models
