@@ -1,3 +1,24 @@
 body {
-    background-color: lightsteelblue;
+    background-color: rgb(53, 58, 65);
+    color: rgb(184, 184, 197);
+}
+
+h2 {
+    color:rgb(197, 197, 197);
+}
+
+h4 {
+    color: rgb(184, 184, 197);
+}
+
+hr {
+    color:rgb(192, 155, 199);
+}
+
+a {
+    color:rgb(186, 224, 226);
+}
+
+li {
+    color:rgb(186, 224, 226);
 }
