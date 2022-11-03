@@ -17,6 +17,12 @@ https://araobp.github.io/blender-3d/
 - [Free 3D models from Mixamo etc (I made some modifications on those)](./modified)
 - [Tips](./tips)
 
+## PTZ Camera
+
+<img src="./doc/PTZCamera.jpg" width=350>
+
+[PTZ Camera](./my_original/ptz_camera.blend)
+
 ### Data sources
 
 In this project, I use free 3D models, 3D animation and textures from these sites:
