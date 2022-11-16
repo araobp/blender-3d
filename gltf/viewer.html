@@ -1,52 +1,50 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <title>&lt;model-viewer&gt; template</title>
-    <meta charset="utf-8">
-    <meta name="description" content="&lt;model-viewer&gt; template">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link type="text/css" href="./styles.css" rel="stylesheet"/>
-  </head>
-  <body>
-    <!-- <model-viewer> HTML element -->
-    <h1>Samples of my original 3D models</h1>
 
-    <p>Baby stroller</p>
-    <model-viewer bounds="tight" enable-pan src="baby_stroller.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1">
+<head>
+  <title>&lt;model-viewer&gt; template</title>
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+  <script src="https://unpkg.com/vue@next"></script>
+  <meta charset="utf-8">
+  <meta name="description" content="&lt;model-viewer&gt; template">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link type="text/css" href="./styles.css" rel="stylesheet" />
+</head>
+
+<body>
+
+  <h1>Samples of my original 3D models</h1>
+
+  <label for="model-select">Choose a 3D model:</label>
+
+  <div id="app">
+    <select v-model="gltf">
+      <option disabled value="">--Please choose a model--</option>
+      <option value="baby_stroller.glb">Baby stroller</option>
+      <option value="bus.glb">Bus</option>
+      <option value="train.glb">Train</option>
+      <option value="iPhone12.glb">iPhone 12</option>
+      <option value="spider">Spider</option>
+      <option value="dunhill.glb">Dunhill</option>
+    </select>
+
+    <model-viewer bounds="tight" enable-pan v-bind:src="gltf" ar ar-modes="webxr scene-viewer quick-look"
+      camera-controls environment-image="neutral" shadow-intensity="1">
       <div class="progress-bar hide" slot="progress-bar">
-          <div class="update-bar"></div>
+        <div class="update-bar"></div>
       </div>
-    </model-viewer>  
+    </model-viewer>
+  </div>
+  
+  <script>
+    var app = new Vue({
+      el: '#app',
+      data: {
+        //セレクトボックス
+        selected2: '2つ目の項目',
+      }
+    })
+  </script>
+</body>
 
-    <p>Bus</p>
-    <model-viewer bounds="tight" enable-pan src="bus.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1">
-      <div class="progress-bar hide" slot="progress-bar">
-          <div class="update-bar"></div>
-      </div>
-    </model-viewer>  
-
-    <p>Train</p>
-    <model-viewer bounds="tight" enable-pan src="train.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1">
-      <div class="progress-bar hide" slot="progress-bar">
-          <div class="update-bar"></div>
-      </div>
-    </model-viewer>  
-
-    <p>iPhone12</p>
-    <model-viewer bounds="tight" enable-pan src="iPhone12.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1">
-      <div class="progress-bar hide" slot="progress-bar">
-          <div class="update-bar"></div>
-      </div>
-    </model-viewer>  
-
-    <p>Dunhill</p>
-    <model-viewer bounds="tight" enable-pan src="dunhill.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1">
-      <div class="progress-bar hide" slot="progress-bar">
-          <div class="update-bar"></div>
-      </div>
-    </model-viewer>  
-
-    <!-- Loads <model-viewer> for browsers: -->
-    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-  </body>
 </html>
