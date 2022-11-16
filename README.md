@@ -7,7 +7,7 @@ https://araobp.github.io/blender-3d/
 
 <img src='my_original/manager_small.png' width=500>
 
-<img src="./doc/AzumaHouse.png" width=500>
+<img src="./doc/AzumaHouse.jpg" width=500>
 
 <img src="./doc/walk.png" width=500>
 
