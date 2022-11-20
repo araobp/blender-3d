@@ -15,7 +15,14 @@ https://araobp.github.io/blender-3d/
 
 - [My original 3D models](./my_original)
 - [Free 3D models from Mixamo etc (I made some modifications on those)](./modified)
+- [3D models from Mixamo](./Mixamo)
 - [Tips](./tips)
+
+## Eyelashes with tranparent PNG texture
+
+<img src="./doc/StafaniEyeLashes.jpg" width=400>
+
+<img src="./doc/StafaniBodymatShading.jpg" width=900>
 
 ## PTZ Camera
 
