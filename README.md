@@ -18,7 +18,7 @@ https://araobp.github.io/blender-3d/
 - [3D models from Mixamo](./Mixamo)
 - [Tips](./tips)
 
-## Eye Lashes with tranparent PNG texture
+## Eyelashes with tranparent PNG texture
 
 <img src="./doc/StafaniEyeLashes.jpg" width=400>
 
