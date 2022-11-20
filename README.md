@@ -24,7 +24,12 @@ https://araobp.github.io/blender-3d/
     </td>
   </tr>  
 </table>
-  
+    
+## Dependencies (Blender add-on)
+
+- [BlenderBIM](https://blenderbim.org/)
+- Rigfy
+
 ## 3D models
 
 - [My original 3D models](./my_original)
