@@ -18,6 +18,12 @@ https://araobp.github.io/blender-3d/
 - [3D models from Mixamo](./Mixamo)
 - [Tips](./tips)
 
+## Eye Lashes with tranparent PNG texture
+
+<img src="./doc/StafaniEyeLashes.jpg" width=400>
+
+<img src="./doc/StafaniBodymatShading.jpg" width=900>
+
 ## PTZ Camera
 
 [PTZ Camera](./my_original/ptz_camera.blend)
