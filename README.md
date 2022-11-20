@@ -5,12 +5,26 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 Github pages (static web site) of this project:
 https://araobp.github.io/blender-3d/
 
+<table>
+  <tr>
+    <td>
 <img src='my_original/manager_small.png' width=500>
-
+    </td>
+    <td>
 <img src="./doc/AzumaHouse.jpg" width=500>
+    </td>
+  </tr>
 
-<img src="./doc/walk.png" width=500>
-
+  <tr>
+    <td>
+      <img src="./doc/walk.png" width=500>
+    </td>
+    <td>
+      <img src="./doc/Stafani.jpg" width=500>
+    </td>
+  </tr>  
+</table>
+  
 ## 3D models
 
 - [My original 3D models](./my_original)
