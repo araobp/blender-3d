@@ -70,3 +70,4 @@ In this project, I use free 3D models, 3D animation and textures from these site
 ## References
 
 - [Volumetric Rendering in Blender for Absolute Beginners](https://www.youtube.com/watch?v=xP5MuZOjfew)
+- [How to combine and edit Mixamo animations in Blender?](https://youtu.be/fLfjHzJy2A0)
