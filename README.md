@@ -66,3 +66,8 @@ In this project, I use free 3D models, 3D animation and textures from these site
 - [Open IFC Model Repository](http://openifcmodel.cs.auckland.ac.nz/)
 - [3D Warehouse](https://3dwarehouse.sketchup.com/)
 - Free textures: [AmbientCG](https://ambientcg.com/)
+
+## References
+
+- [Volumetric Rendering in Blender for Absolute Beginners](https://www.youtube.com/watch?v=xP5MuZOjfew)
+- [How to combine and edit Mixamo animations in Blender?](https://youtu.be/fLfjHzJy2A0)
