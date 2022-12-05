@@ -28,7 +28,7 @@ https://araobp.github.io/blender-3d/
 ## Dependencies (Blender add-on)
 
 - [BlenderBIM](https://blenderbim.org/)
-- Rigfy
+- Rigify
 
 ## 3D models
 
