@@ -71,3 +71,5 @@ In this project, I use free 3D models, 3D animation and textures from these site
 
 - [Volumetric Rendering in Blender for Absolute Beginners](https://www.youtube.com/watch?v=xP5MuZOjfew)
 - [How to combine and edit Mixamo animations in Blender?](https://youtu.be/fLfjHzJy2A0)
+- [How to rig this excavator?](https://blender.stackexchange.com/questions/247317/how-to-rig-this-excavator)
+- [Inverse Kinematics - Blender 2.80 Fundamentals](https://youtu.be/S-2v_CKmVE8)
