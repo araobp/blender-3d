@@ -34,7 +34,7 @@ https://araobp.github.io/blender-3d/
 
 - [My original 3D models](./my_original)
 - [Free 3D models from Mixamo etc (I made some modifications on those)](./modified)
-- [3D models from Mixamo](./Mixamo)
+- [Rigged models](./rigged_models)
 - [NASA](./NASA)
 - [Tips](./tips)
 
