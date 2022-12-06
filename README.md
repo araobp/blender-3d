@@ -8,7 +8,7 @@ https://araobp.github.io/blender-3d/
 <table>
   <tr>
     <td>
-<img src='my_original/manager_small.png' width=500>
+<img src='./doc/PC120_IK.png' width=500>
     </td>
     <td>
 <img src="./doc/AzumaHouse.jpg" width=500>
