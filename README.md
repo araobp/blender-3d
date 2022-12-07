@@ -38,6 +38,16 @@ https://araobp.github.io/blender-3d/
 - [NASA](./NASA)
 - [Tips](./tips)
 
+## Excavator 3D model (PC120_IK.blend)
+
+Use IK_BUCKET_POSITON and IK_BUCKET_ROTATION bones for moving and rotating the bucket.
+
+<img src="./doc/PC120_IK_PoseMode.jpg" width=400>
+
+Use EmptyForward to move the body.
+
+<img src="./doc/PC120_IK_EmptyForward.jpg" width=400>
+
 ## Eyelashes with tranparent PNG texture
 
 <img src="./doc/StafaniEyeLashes.jpg" width=400>
