@@ -79,10 +79,22 @@ In this project, I use free 3D models, 3D animation and textures from these site
 
 ## References
 
+#### Visual effects
+
 - [Volumetric Rendering in Blender for Absolute Beginners](https://www.youtube.com/watch?v=xP5MuZOjfew)
+
+#### Human bodies
+
 - [How to combine and edit Mixamo animations in Blender?](https://youtu.be/fLfjHzJy2A0)
-- [How to rig this excavator?](https://blender.stackexchange.com/questions/247317/how-to-rig-this-excavator)
+- [Character Modeling for Beginners (Blender Tutorial)](https://youtu.be/IhIGVO4fqLg)
+
+#### Inverse Kinematics
+
 - [Inverse Kinematics - Blender 2.80 Fundamentals](https://youtu.be/S-2v_CKmVE8)
+- [How to rig this excavator?](https://blender.stackexchange.com/questions/247317/how-to-rig-this-excavator)
 - [Blender Rigging - Setting Up an IK Arm Rig](https://youtu.be/vZaNZhAoMts)
+
+#### Excavator tracks
+
 - [Excavator Track Link Chain Assembly In blender | Excavator Track Link Chain 3D | Blender Tutorial !](https://youtu.be/1sUpFJrLLXA)
 - [MAKE TANK TRACKS IN BLENDER EASY](https://youtu.be/FqfIfEx5Eb8)
