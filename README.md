@@ -38,6 +38,16 @@ https://araobp.github.io/blender-3d/
 - [NASA](./NASA)
 - [Tips](./tips)
 
+## Excavator 3D model "PC120_IK.blend"
+
+Use "IK_BUCKET_POSITON" and "IK_BUCKET_ROTATION" bones for moving and rotating the bucket.
+
+<img src="./doc/PC120_IK_PoseMode.jpg" width=400>
+
+Use "EmptyForward" object to move the body.
+
+<img src="./doc/PC120_IK_EmptyForward.jpg" width=400>
+
 ## Eyelashes with tranparent PNG texture
 
 <img src="./doc/StafaniEyeLashes.jpg" width=400>
@@ -75,3 +85,4 @@ In this project, I use free 3D models, 3D animation and textures from these site
 - [Inverse Kinematics - Blender 2.80 Fundamentals](https://youtu.be/S-2v_CKmVE8)
 - [Blender Rigging - Setting Up an IK Arm Rig](https://youtu.be/vZaNZhAoMts)
 - [Excavator Track Link Chain Assembly In blender | Excavator Track Link Chain 3D | Blender Tutorial !](https://youtu.be/1sUpFJrLLXA)
+- [MAKE TANK TRACKS IN BLENDER EASY](https://youtu.be/FqfIfEx5Eb8)
