@@ -4,9 +4,9 @@ This folder contains my original human body 3D model.
 
 ## Images from cameras
 
-<img src="./human-body-Cycles/Camera1.png" width=600>
+<img src="./human-body-Cycles/Camera1.png" width=800>
 
-<img src="./human-body-Cycles/Camera2.png" width=600>
+<img src="./human-body-Cycles/Camera2.png" width=800>
 
 ## Animation example
 
