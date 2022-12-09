@@ -87,6 +87,7 @@ In this project, I use free 3D models, 3D animation and textures from these site
 
 - [How to combine and edit Mixamo animations in Blender?](https://youtu.be/fLfjHzJy2A0)
 - [Character Modeling for Beginners (Blender Tutorial)](https://youtu.be/IhIGVO4fqLg)
+- [Blender Rigify - Fingers bend the wrong way (FIXED)](https://youtu.be/Lw32kq4Q7Ag)
 
 #### Inverse Kinematics
 
