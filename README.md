@@ -40,6 +40,10 @@ https://araobp.github.io/blender-3d/
 - [My original human body 3D model](./human_body)
 - [Tips](./tips)
 
+## 3D model viewer
+
+Part of the models in this repo can be viewed via this [3D model viewer](gltf/viewer.html).
+
 ## Excavator 3D model "PC120_IK.blend"
 
 Use "IK_BUCKET_POSITON" and "IK_BUCKET_ROTATION" bones for moving and rotating the bucket.
