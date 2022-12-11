@@ -64,7 +64,7 @@ This 3D model is useful for AR applications made with Unity.
 
 <img src="./doc/Origin.jpg" width=350>
 
-### Data sources
+## Data sources
 
 In this project, I use free 3D models, 3D animation and textures from these sites:
 
