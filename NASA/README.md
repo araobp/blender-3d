@@ -2,6 +2,8 @@
 
 ## Moon
 
+Reference: [How to Make a Realistic Earth in Blender in 20 mins](https://youtu.be/0YZzHn0iz8U)
+
 ### Moon
 
 <img src="Moon-Cycles/Moon.png" width=600>
