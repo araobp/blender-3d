@@ -36,6 +36,7 @@ https://araobp.github.io/blender-3d/
 - [Free 3D models from Mixamo etc (I made some modifications on those)](./modified)
 - [Rigged models](./rigged_models)
 - [NASA](./NASA)
+- [My original human body 3D model](./human_body)
 - [Tips](./tips)
 
 ## Excavator 3D model "PC120_IK.blend"
@@ -86,7 +87,6 @@ In this project, I use free 3D models, 3D animation and textures from these site
 #### Human bodies
 
 - [How to combine and edit Mixamo animations in Blender?](https://youtu.be/fLfjHzJy2A0)
-- [Character Modeling for Beginners (Blender Tutorial)](https://youtu.be/IhIGVO4fqLg)
 - [Blender Rigify - Fingers bend the wrong way (FIXED)](https://youtu.be/Lw32kq4Q7Ag)
 
 #### Inverse Kinematics
