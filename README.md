@@ -49,6 +49,10 @@ https://araobp.github.io/blender-3d/
 - [FZK Haus](./modified/FZKHaus.md)
 - [Azuma House](./modified/AzumaHouse.md)
 
+#### Sky Car from Unity Standard Assets
+
+- [SkyCar](./modified/SkyCar.md]
+
 #### Tips
 
 - [Tips](./tips)
