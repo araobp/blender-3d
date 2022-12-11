@@ -51,7 +51,7 @@ https://araobp.github.io/blender-3d/
 
 #### Sky Car from Unity Standard Assets
 
-- [SkyCar](./modified/SkyCar.md]
+- [SkyCar](./modified/SkyCar.md)
 
 #### Tips
 
