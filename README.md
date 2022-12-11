@@ -36,6 +36,7 @@ https://araobp.github.io/blender-3d/
 - [Free 3D models from Mixamo etc (I made some modifications on those)](./modified)
 - [Rigged models](./rigged_models)
 - [NASA](./NASA)
+- [Neon sign](./neon)
 - [My original human body 3D model](./human_body)
 - [Tips](./tips)
 
