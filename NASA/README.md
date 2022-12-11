@@ -1,3 +1,3 @@
 # Moon
 
-<img src="Moon-Cycles/Tycho.png" width=300>
+<img src="Moon-Cycles/Tycho.png" width=600>
