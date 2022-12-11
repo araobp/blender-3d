@@ -4,7 +4,7 @@ This folder contains 3d models from [Mixamo](https://www.mixamo.com).
 
 ## Stefani from Mixamo
 
-<img src="./stefani_rigged.png" width=400>
+<img src="./stefani_rigged.jpg" width=400>
 
 ## Tips
 
