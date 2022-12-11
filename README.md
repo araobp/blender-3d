@@ -50,12 +50,6 @@ Use "EmptyForward" object to move the body.
 
 <img src="./doc/PC120_IK_EmptyForward.jpg" width=400>
 
-## Eyelashes with tranparent PNG texture
-
-<img src="./doc/StafaniEyeLashes.jpg" width=400>
-
-<img src="./doc/StafaniBodymatShading.jpg" width=900>
-
 ## PTZ Camera
 
 [PTZ Camera](./my_original/ptz_camera.blend)
