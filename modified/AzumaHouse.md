@@ -1,4 +1,4 @@
-# Azuma house
+# Azuma House
 
 <img src="./AzumaHouse-Cycles/Camera1.png" width=900>
 
