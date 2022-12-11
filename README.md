@@ -32,12 +32,29 @@ https://araobp.github.io/blender-3d/
 
 ## 3D models
 
+#### My original 3D models
+
 - [My original 3D models](./my_original)
-- [Free 3D models from Mixamo etc (I made some modifications on those)](./modified)
-- [Rigged models](./rigged_models)
+- [My original human body 3D model](./human_body)
 - [NASA](./NASA)
 - [Neon sign](./neon)
-- [My original human body 3D model](./human_body)
+
+#### Free 3D models from Mixamo etc (I made some modifications on those)
+
+- [Free 3D models](./modified)
+- [Rigged models](./rigged_models)
+
+#### IFC-BIM on Blender
+
+- [FZK Haus](./modified/FZKHaus.md)
+- [Azuma House](./modified/AzumaHouse.md)
+
+#### Sky Car from Unity Standard Assets
+
+- [SkyCar](./modified/SkyCar.md)
+
+#### Tips
+
 - [Tips](./tips)
 
 ## 3D model viewer
