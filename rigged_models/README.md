@@ -1,4 +1,4 @@
-# Note
+# Rigged models
 
 This folder contains 3d models from [Mixamo](https://www.mixamo.com).
 
