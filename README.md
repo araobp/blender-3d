@@ -2,9 +2,6 @@
 
 This repo is a collection of 3D models and 3D animations made with Blender by me.
 
-Github pages (static web site) of this project:
-https://araobp.github.io/blender-3d/
-
 <table>
   <tr>
     <td>
@@ -42,7 +39,7 @@ https://araobp.github.io/blender-3d/
 #### Free 3D models from Mixamo etc (I made some modifications on those)
 
 - [Free 3D models](./modified)
-- [Rigged models](./rigged_models)
+- [Rigged models](./rigged_models) (Work in progress)
 
 #### IFC-BIM on Blender
 
@@ -57,9 +54,10 @@ https://araobp.github.io/blender-3d/
 
 - [Tips](./tips)
 
-## 3D model viewer
+#### Other pictures and videos
 
-Part of the models in this repo can be viewed via this [3D model viewer](https://araobp.github.io/blender-3d/gltf/viewer.html).
+- Github pages (static web site) of this project: https://araobp.github.io/blender-3d/
+- Part of the models in this repo can be viewed via this [3D model viewer](https://araobp.github.io/blender-3d/gltf/viewer.html).
 
 ## Excavator 3D model "PC120_IK.blend"
 
