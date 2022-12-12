@@ -2,9 +2,6 @@
 
 This repo is a collection of 3D models and 3D animations made with Blender by me.
 
-Github pages (static web site) of this project:
-https://araobp.github.io/blender-3d/
-
 <table>
   <tr>
     <td>
@@ -56,6 +53,10 @@ https://araobp.github.io/blender-3d/
 #### Tips
 
 - [Tips](./tips)
+
+#### Other pictures and videos
+
+Github pages (static web site) of this project: https://araobp.github.io/blender-3d/
 
 ## 3D model viewer
 
