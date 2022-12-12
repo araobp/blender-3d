@@ -39,7 +39,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 #### Free 3D models from Mixamo etc (I made some modifications on those)
 
 - [Free 3D models](./modified)
-- [Rigged models](./rigged_models)
+- [Rigged models](./rigged_models) (Work in progress)
 
 #### IFC-BIM on Blender
 
