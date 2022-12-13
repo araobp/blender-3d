@@ -62,3 +62,9 @@ https://user-images.githubusercontent.com/11053654/207289740-149a1e02-a530-40f8-
 https://user-images.githubusercontent.com/11053654/207290039-ce241943-852d-4a74-af49-3f18582c94f4.mp4
   
 </details>
+
+<details><summary>Walking two X-bots and two Y-bots</summary>
+
+https://user-images.githubusercontent.com/11053654/207290285-a08d637b-fdcd-4412-8ab7-53ae25124275.mp4
+
+</details>
