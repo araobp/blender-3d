@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/11053654/207285714-c19da870-8080-43ce-
 
 </details>
 
-<details><summary>Inter-Cloud</summary>
+<details><summary>Transferring code to the Cloud</summary>
 
 https://user-images.githubusercontent.com/11053654/207287554-f0b58276-8570-4468-9528-6fc12391cf45.mp4
 
