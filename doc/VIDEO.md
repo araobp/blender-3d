@@ -36,3 +36,18 @@ https://user-images.githubusercontent.com/11053654/207285714-c19da870-8080-43ce-
 https://user-images.githubusercontent.com/11053654/207287554-f0b58276-8570-4468-9528-6fc12391cf45.mp4
 
 </details>
+
+</details>
+
+<details><summary>Sliding strip</summary>
+
+https://user-images.githubusercontent.com/11053654/207288599-16a4f9f5-a94d-461d-97a2-7a24fe7dd43d.mp4
+  
+</details>
+
+<details><summary>Sliding text</summary>
+
+https://user-images.githubusercontent.com/11053654/207288684-1cd8cb66-0812-4c02-a2ed-e4d3de188dd7.mp4
+
+</details>
+
