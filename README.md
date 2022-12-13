@@ -54,11 +54,11 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
 - [Tips](./tips)
 
-## Video and pictures generated with Blender
+## Video (animations) and pictures generated with Blender
 
-#### Video
+#### Video (animations)
 
-[Video](./doc/Video.md)
+[Video](./doc/VIDEO.md)
 
 #### Other pictures
 
