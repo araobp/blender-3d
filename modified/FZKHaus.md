@@ -1,5 +1,7 @@
 # FZK Haus
 
+(Click on the menu items to expand)
+
 <details><summary>Camera1</summary>
 <img src="./FZK-Haus-Cycles/Camera1.png" width=900>
 </details>
