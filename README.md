@@ -14,7 +14,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
   <tr>
     <td>
-      <img src="./doc/walk.png" width=500>
+      <img src="./illumination/vintage_apartment-Cycles/Camera1.png" width=500>
     </td>
     <td>
       <img src="./doc/Stafani.jpg" width=500>
@@ -54,10 +54,15 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
 - [Tips](./tips)
 
-#### Other pictures and videos
+## Video (animations) and pictures generated with Blender
 
-- Github pages (static web site) of this project: https://araobp.github.io/blender-3d/
-- Part of the models in this repo can be viewed via this [3D model viewer](https://araobp.github.io/blender-3d/gltf/viewer.html).
+#### Video (animations)
+
+=> [Video](./doc/VIDEO.md)
+
+#### Other pictures
+
+Part of the models in this repo can be viewed via this [3D model viewer](https://araobp.github.io/blender-3d/gltf/viewer.html).
 
 ## Excavator 3D model "PC120_IK.blend"
 
