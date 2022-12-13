@@ -51,3 +51,8 @@ https://user-images.githubusercontent.com/11053654/207288684-1cd8cb66-0812-4c02-
 
 </details>
 
+<details><summary>Walking Y-bot</summary>
+
+https://user-images.githubusercontent.com/11053654/207289740-149a1e02-a530-40f8-9635-994fbd6a8bc7.mp4
+
+</details>
