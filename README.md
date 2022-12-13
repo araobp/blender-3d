@@ -58,7 +58,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
 #### Video (animations)
 
-[Video](./doc/VIDEO.md)
+=> [Video](./doc/VIDEO.md)
 
 #### Other pictures
 
