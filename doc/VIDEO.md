@@ -7,10 +7,10 @@
 
 ### My original 3D animations made with Blender
 
-<details><summary>Alex dancing</summary>
+Alex dancing
 https://user-images.githubusercontent.com/11053654/207283857-29e8251e-4817-49e6-abff-9a3ad2202211.mp4
-</details>
 
-<details><summary>Data to Cloud (2D version)</summary>
+
+Data to Cloud (2D version)
 https://user-images.githubusercontent.com/11053654/207285714-c19da870-8080-43ce-a4e5-95b83461c485.mp4
-</details>
+
