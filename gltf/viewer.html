@@ -15,7 +15,7 @@
   <h1>3D model viewer</h1>
 
   <div>
-    <select class="models">
+    <select>
       <option disabled selected>--Please choose a model--</option>
       <option value="baby_stroller.glb">Baby stroller</option>
       <option value="bus.glb">Bus</option>
@@ -34,7 +34,7 @@
   <br>
   <br>
 
-  <model-viewer class="viewer" bounds="tight" enable-pan src="" ar ar-modes="webxr scene-viewer quick-look"
+  <model-viewer style="width: 90%; height: 600px; margin: 10px;" bounds="tight" enable-pan src="" ar ar-modes="webxr scene-viewer quick-look"
     camera-controls environment-image="neutral" shadow-intensity="1">
     <div class="progress-bar hide" slot="progress-bar">
       <div class="update-bar"></div>
