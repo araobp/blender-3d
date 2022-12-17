@@ -31,29 +31,24 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
 #### My original 3D models
 
+These 3D models are my original 3D models with free textures and materials.
+
 - [My original 3D models](./my_original)
 - [My original human body 3D model](./human_body)
 - [NASA](./NASA)
 - [Illumination](./illumination)
+- [Robots](./robots)
 - [Liquid](./liquid)
 
-#### Free 3D models from Mixamo etc (I made some modifications on those)
+#### Free 3D models from Mixamo etc
+
+I made some modifications on these free 3D models.
 
 - [Free 3D models](./modified)
-- [Rigged models](./rigged_models) (Work in progress)
-
-#### IFC-BIM on Blender
-
 - [FZK Haus](./modified/FZKHaus.md)
 - [Azuma House](./modified/AzumaHouse.md)
-
-#### Sky Car from Unity Standard Assets
-
 - [SkyCar](./modified/SkyCar.md)
-
-#### Robots
-
-- [Robots](./robots)
+- [Rigged models](./rigged_models) (Work in progress)
 
 #### Tips
 
