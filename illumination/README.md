@@ -17,7 +17,7 @@ Reference: [How to Make a Neon Sign in Blender 2.8](https://youtu.be/eQjQfmjDXXA
 
 <img src="./Wooden_Lights-Cycles/Camera3.png" width=1000>
 
-## Vintage apartment
+## Vintage apartment entrance
 
 <img src="./vintage_apartment-Cycles/Camera1.png" width=1000>
 
