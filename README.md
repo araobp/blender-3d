@@ -29,7 +29,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
 ## 3D models
 
-#### My original 3D models
+### My original 3D models
 
 These 3D models are my original 3D models with free textures and materials.
 
@@ -40,7 +40,7 @@ These 3D models are my original 3D models with free textures and materials.
 - [Robots](./robots)
 - [Liquid](./liquid)
 
-#### Free 3D models from Mixamo etc
+### Free 3D models from Mixamo etc
 
 I made some modifications on these free 3D models.
 
@@ -50,17 +50,17 @@ I made some modifications on these free 3D models.
 - [SkyCar](./modified/SkyCar.md)
 - [Rigged models](./rigged_models) (Work in progress)
 
-#### Tips
+### Tips
 
 - [Tips](./tips)
 
 ## Video (animations) and pictures generated with Blender
 
-#### Video (animations)
+### Video (animations)
 
 => [Video](./doc/VIDEO.md)
 
-#### Other pictures
+### 3D model viewer
 
 Part of the models in this repo can be viewed via this [3D model viewer](https://araobp.github.io/blender-3d/gltf/viewer.html).
 
