@@ -35,6 +35,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 - [My original human body 3D model](./human_body)
 - [NASA](./NASA)
 - [Illumination](./illumination)
+- [Liquid](./liquid)
 
 #### Free 3D models from Mixamo etc (I made some modifications on those)
 
