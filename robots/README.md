@@ -1,6 +1,6 @@
 # Robots
 
-## Industorial robots
+## Industorial robot
 
 Reference: [Blender 3D : Animation constraints : the "Child Of" constraint](https://youtu.be/NsdRUk807qk)
 
