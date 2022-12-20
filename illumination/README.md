@@ -23,5 +23,7 @@ Reference: [How to Make a Neon Sign in Blender 2.8](https://youtu.be/eQjQfmjDXXA
 
 ## LED sign
 
+Reference: [How to make an LED sign in Blender](https://youtube.com/watch?v=_TYD-CRDGXI&si=EnSIkaIECMiOmarE)
+
 https://user-images.githubusercontent.com/11053654/208661969-d84ab927-a373-4f20-9b34-946c90f00442.mp4
 
