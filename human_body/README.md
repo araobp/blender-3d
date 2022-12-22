@@ -12,6 +12,8 @@ This folder contains my original human body 3D model.
 
 https://user-images.githubusercontent.com/11053654/207029562-c61b19fa-d361-4000-94ef-583b132eceea.mp4
 
+https://user-images.githubusercontent.com/11053654/209119576-e8c01526-2ee5-4f37-b2dc-2839de6f3d98.mp4
+
 ## Reference
 
 - [Character Modeling for Beginners (Blender Tutorial)](https://youtu.be/IhIGVO4fqLg)
