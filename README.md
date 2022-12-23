@@ -22,11 +22,6 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
   </tr>  
 </table>
     
-## Dependencies (Blender add-on)
-
-- [BlenderBIM](https://blenderbim.org/)
-- Rigify
-
 ## 3D models
 
 ### My original 3D models
@@ -97,6 +92,13 @@ In this project, I use free 3D models, 3D animation and textures from these site
 - [3D Warehouse](https://3dwarehouse.sketchup.com/)
 - Free textures: [AmbientCG](https://ambientcg.com/)
 - Free photos: [ISO Republic](https://isorepublic.com/)
+
+## Dependencies (Blender add-on)
+
+Part of the 3D models in this repo are dependent on the following add-ons:
+
+- [BlenderBIM](https://blenderbim.org/)
+- Rigify
 
 ## References
 
