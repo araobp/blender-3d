@@ -12,7 +12,7 @@ Reference: [How to Make a Realistic Earth in Blender in 20 mins](https://youtube
 
 ## Moon
 
-Reference: [How to Make a Realistic Earth in Blender in 20 mins](https://youtu.be/0YZzHn0iz8U)
+Reference: [How to Make a Realistic Moon in Blender (Beginner Tutorial)](https://youtube.com/watch?v=3dlSLviiX70&si=EnSIkaIECMiOmarE)
 
 ### Moon
 
