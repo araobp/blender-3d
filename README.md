@@ -33,12 +33,12 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
 These 3D models are my original 3D models with free textures and materials.
 
-- [My original 3D models](./my_original)
-- [My original human body 3D model](./human_body)
+- [Human body](./human_body)
 - [NASA](./NASA)
 - [Illumination](./illumination)
 - [Robots](./robots)
 - [Liquid](./liquid)
+- [My original 3D models](./my_original)
 
 ### Free 3D models from Mixamo etc
 
