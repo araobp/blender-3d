@@ -1,13 +1,13 @@
 # Robots
 
-## Industorial robot
+## Industrial robot
+
+### robot_yas.blend
 
 Reference: [Blender 3D : Animation constraints : the "Child Of" constraint](https://youtu.be/NsdRUk807qk)
 
-Camera 1
+https://user-images.githubusercontent.com/11053654/209329066-55990ef1-0b03-4735-904e-5c96fc3400cd.mp4
 
-https://user-images.githubusercontent.com/11053654/207637032-e48882db-6efd-46cb-8233-7d6ad3e6e903.mp4
+=> [Video on YouTube](https://youtu.be/142G_TztZnU)
 
-Camera 2
 
-https://user-images.githubusercontent.com/11053654/207810665-548745aa-5ab8-4786-a0dc-449e9d9ac349.mp4
