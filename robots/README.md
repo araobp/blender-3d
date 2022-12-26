@@ -8,6 +8,6 @@ Reference: [Blender 3D : Animation constraints : the "Child Of" constraint](http
 
 https://user-images.githubusercontent.com/11053654/209539270-93a921ce-4004-47b4-a962-72e59b452c76.mp4
 
-=> [Video on YouTube](https://youtu.be/142G_TztZnU)
+=> [Video on YouTube](https://youtu.be/C_qCqOBFJzs)
 
 
