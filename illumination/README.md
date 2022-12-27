@@ -41,4 +41,10 @@ Reference: [Beginner Blender Modelling Tutorial - Lightbulb Part 1 of 2](https:/
 
 Reference: [Making Sparks in Blender Beginner Tutorial](https://youtube.com/watch?v=8XFz-wqv3Kc&si=EnSIkaIECMiOmarE)
 
-=> [Video on YouTube](https://youtu.be/pLNI8Rr72fw)
+https://user-images.githubusercontent.com/11053654/209604800-37f412e6-118b-4939-a3f6-023f76861bb3.mp4
+
+## Welding (welding.blend)
+
+https://user-images.githubusercontent.com/11053654/209604830-9276449d-2abe-4b12-8574-55a19da865fb.mp4
+
+
