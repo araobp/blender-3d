@@ -14,7 +14,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
   <tr>
     <td>
-      <img src="./illumination/vintage_apartment-Cycles/Camera1.png" width=500>
+      <img src="./doc/robot_welding.png" width=500>
     </td>
     <td>
       <img src="./doc/Stafani.jpg" width=500>
