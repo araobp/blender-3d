@@ -2,7 +2,7 @@
 
 Use "IK_BUCKET_POSITON" and "IK_BUCKET_ROTATION" bones for moving and rotating the bucket.
 
-<img src="./doc/PC120_IK_PoseMode.jpg" width=400>
+<img src="../doc/PC120_IK_PoseMode.jpg" width=400>
 
 Use "EmptyForward" object to move the body.
 
