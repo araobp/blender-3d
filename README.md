@@ -33,6 +33,7 @@ These 3D models are my original 3D models with free textures and materials.
 - [Illumination](./illumination)
 - [Robots](./robots)
 - [Liquid](./liquid)
+- [Materials](./materials)
 - [My original 3D models](./my_original)
 
 ### Free 3D models from Mixamo etc
