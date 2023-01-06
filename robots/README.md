@@ -15,3 +15,8 @@ https://user-images.githubusercontent.com/11053654/209539270-93a921ce-4004-47b4-
 https://user-images.githubusercontent.com/11053654/210138284-e3c2047d-523d-4b4b-ac78-59d31bf734f7.mp4
 
 => [Video on YouTube](https://youtu.be/rrkVU4aE6Tg)
+
+Reference: 
+- [Smoke Domain casting shadows?](https://blender.stackexchange.com/questions/270404/smoke-domain-casting-shadows)
+- [How to get Smoke Collisions in blender 2.82 | Quick Tip](https://youtube.com/watch?v=xVYik8c8l0Q&si=EnSIkaIECMiOmarE)
+
