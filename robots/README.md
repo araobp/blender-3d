@@ -12,9 +12,9 @@ https://user-images.githubusercontent.com/11053654/209539270-93a921ce-4004-47b4-
 
 ### robot_welding.blend
 
-https://user-images.githubusercontent.com/11053654/210138284-e3c2047d-523d-4b4b-ac78-59d31bf734f7.mp4
+https://user-images.githubusercontent.com/11053654/211025216-066209ce-4b70-4435-811b-0b5eab680dfa.mp4
 
-=> [Video on YouTube](https://youtu.be/rrkVU4aE6Tg)
+=> [Video on YouTube](https://youtu.be/DVG4slg7Q_Y)
 
 Reference: 
 - [Smoke Domain casting shadows?](https://blender.stackexchange.com/questions/270404/smoke-domain-casting-shadows)
