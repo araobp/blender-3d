@@ -23,4 +23,4 @@ Another version of the video:
 Reference: 
 - [Smoke Domain casting shadows?](https://blender.stackexchange.com/questions/270404/smoke-domain-casting-shadows)
 - [How to get Smoke Collisions in blender 2.82 | Quick Tip](https://youtube.com/watch?v=xVYik8c8l0Q&si=EnSIkaIECMiOmarE)
-
+- [How to stop the emission of particles for an amount of frames, and then continue?](https://blender.stackexchange.com/questions/105488/how-to-stop-the-emission-of-particles-for-an-amount-of-frames-and-then-continue)
