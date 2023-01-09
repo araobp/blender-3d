@@ -28,6 +28,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 These 3D models are my original 3D models with free textures and materials.
 
 - [Robots](./robots)
+- [Tools](./tools)
 - [Illumination](./illumination)
 - [Human body](./human_body)
 - [NASA](./NASA)
