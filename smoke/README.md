@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/11053654/210196025-dff6cf3c-42d9-4563-
 
 https://user-images.githubusercontent.com/11053654/212447813-d510b53f-d234-4f7d-a74d-0f26580014a6.mp4
 
-The free smoke video is from the following site:
+The free smoke video embedded in the scene is from the following site:
 https://www.videezy.com/free-video/smoke
 
 Reference:
