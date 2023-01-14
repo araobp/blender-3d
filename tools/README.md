@@ -4,4 +4,4 @@
 
 <img src="./soldering_iron.png" width=800>
 
-=> [Video on YouTube](https://github.com/araobp/blender-3d/tree/main/tools)
+=> [Video on YouTube](https://youtu.be/1xmiIczxZqo)
