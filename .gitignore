@@ -1,2 +1,3 @@
 *.blend?
 .DS_Store
+cache_*
