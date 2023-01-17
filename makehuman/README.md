@@ -13,3 +13,9 @@ MakeHuman: http://www.makehumancommunity.org/
 <img src="./woman_images/Camera4.png" width=800>
 
 <img src="./woman_images/Camera5.png" width=800>
+
+### Credits
+
+I have used MakeHuman extensions, "High heels" and "Nails", from the following pages:
+- High heels: http://www.makehumancommunity.org/clothes/high_heels_library.html
+- Nails: http://www.makehumancommunity.org/clothes/mind_nails_02_medium.html
