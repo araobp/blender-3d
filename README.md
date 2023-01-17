@@ -31,7 +31,7 @@ These 3D models are my original 3D models with free textures and materials.
 - [Tools](./tools)
 - [Illumination](./illumination)
 - [Human body](./human_body)
-- [MmakeHuman](./makehuman)
+- [MakeHuman](./makehuman)
 - [NASA](./NASA)
 - [Liquid](./liquid)
 - [Smoke](./smoke)
