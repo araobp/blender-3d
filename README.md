@@ -8,7 +8,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
       <img src="./doc/robot_welding.png" width=500>
     </td>
     <td>
-      <img src="./doc/Stafani.jpg" width=500>
+      <img src="./doc/makehuman_woman.png" width=500>
     </td>
   </tr>  
     <tr>
@@ -31,7 +31,7 @@ These 3D models are my original 3D models with free textures and materials.
 - [Tools](./tools)
 - [Illumination](./illumination)
 - [Human body](./human_body)
-- [MmakeHuman](./makehuman)
+- [MakeHuman](./makehuman)
 - [NASA](./NASA)
 - [Liquid](./liquid)
 - [Smoke](./smoke)
