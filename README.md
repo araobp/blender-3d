@@ -81,6 +81,10 @@ Part of the 3D models in this repo are dependent on the following add-ons:
 
 ## References
 
+#### Rendering performance
+
+- [Introducing the Blender Metal Viewport](https://code.blender.org/2023/01/introducing-the-blender-metal-viewport/?utm_source=www-homepage)
+
 #### Visual effects
 
 - [Volumetric Rendering in Blender for Absolute Beginners](https://www.youtube.com/watch?v=xP5MuZOjfew)
