@@ -38,6 +38,10 @@ These 3D models are my original 3D models with free textures and materials.
 - [Materials](./materials)
 - [My original 3D models](./my_original)
 
+### Scenes
+
+- [scenes](./scenes)
+
 ### Free 3D models from Mixamo etc
 
 I made some modifications on these free 3D models.
