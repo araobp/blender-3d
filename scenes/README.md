@@ -32,6 +32,8 @@ I have ever been to Theaterplatz a lot of times. It is nice to put the character
 
 => Video on YouTube: https://youtu.be/xugC3eSykPA
 
+Reference: [Add Shadows To An HDRI With Shadow Catcher Blender](https://www.youtube.com/watch?v=KBCZBsV-GbA)
+
 #### Camera 1
 
 https://user-images.githubusercontent.com/11053654/214347522-5ae99872-c544-49b8-b136-4632cb30c447.mp4
