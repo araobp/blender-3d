@@ -1,0 +1,63 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+uuid 686bab07-27a5-4098-b4dc-fc886cfa93df
+name Man
+camera 7.0 357.5 -0.12270897456031653 0.1883608233097214 0.428561974546002 1.0625
+modifier head/head-age-decr|incr -0.132000
+modifier head/head-angle-in|out -0.014000
+modifier head/head-fat-decr|incr -0.004000
+modifier head/head-oval 0.493000
+modifier eyebrows/eyebrows-trans-backward|forward -0.142000
+modifier eyebrows/eyebrows-angle-down|up -0.396000
+modifier eyebrows/eyebrows-trans-down|up 0.142000
+modifier torso/torso-scale-depth-decr|incr 0.210000
+modifier torso/torso-scale-horiz-decr|incr 0.026000
+modifier torso/torso-scale-vert-decr|incr -0.064000
+modifier torso/torso-vshape-decr|incr -0.342000
+modifier torso/torso-muscle-dorsi-decr|incr -0.298000
+modifier hip/hip-scale-depth-decr|incr -0.062000
+modifier hip/hip-scale-horiz-decr|incr -0.272000
+modifier hip/hip-waist-down|up -0.078000
+modifier stomach/stomach-navel-in|out -0.668000
+modifier stomach/stomach-tone-decr|incr -0.264000
+modifier stomach/stomach-pregnant-decr|incr -0.044000
+modifier buttocks/buttocks-volume-decr|incr 0.008000
+modifier pelvis/pelvis-tone-decr|incr 0.018000
+modifier pelvis/bulge-decr|incr 0.062000
+modifier breast/BreastSize 0.722000
+modifier breast/BreastFirmness 0.488000
+modifier breast/breast-trans-down|up -0.064000
+modifier breast/breast-dist-decr|incr -0.044000
+modifier breast/breast-volume-vert-down|up -0.158000
+modifier breast/nipple-size-decr|incr -0.014000
+modifier breast/nipple-point-decr|incr 0.004000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.527000
+modifier macrodetails/African 0.000000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier macrodetails-universal/Muscle 0.527000
+modifier macrodetails-universal/Weight 0.561000
+modifier macrodetails-height/Height 0.517000
+modifier macrodetails-proportions/BodyProportions 1.000000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+proxy female_generic 84b1a384-1af0-4126-9030-222edb78b318
+hair bob02 cd7840cf-b340-49e9-a505-8a5a22a86db2
+eyelashes eyelashes04 efd75993-8de1-43fb-b410-adc203091d25
+skeleton default.mhskel
+eyebrows eyebrow006 bb953a1a-db43-44db-a0ad-ed8a5d6000c9
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose tpose.bvh
+clothes female_elegantsuit01 8bb26477-c09f-4439-b05f-961516acf662
+clothes high_heels_Library ac4f3598-075b-4770-b486-743db5ce3798
+clothes Mind_Nails_02_medium a1702441-5ccc-4748-835f-3597d6224ab6
+clothesHideFaces True
+skinMaterial skins/young_caucasian_female/young_caucasian_female.mhmat
+material bob02 cd7840cf-b340-49e9-a505-8a5a22a86db2 bob02.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/deepblue.mhmat
+material eyebrow006 bb953a1a-db43-44db-a0ad-ed8a5d6000c9 eyebrow006.mhmat
+material eyelashes04 efd75993-8de1-43fb-b410-adc203091d25 eyelashes04.mhmat
+material Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d teeth/materials/teeth.mhmat
+material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
+subdivide False
