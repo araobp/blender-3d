@@ -36,7 +36,7 @@ These 3D models are my original 3D models with free textures and materials.
 - [Liquid](./liquid)
 - [Smoke](./smoke)
 - [Materials](./materials)
-- [My original 3D models](./my_original)
+- [My other original 3D models](./my_original)
 
 ### Scenes
 
