@@ -26,6 +26,8 @@ Reference:
 
 <img src="./woman_images/Camera5.png" width=800>
 
+<img src="./woman_images/Camera6.png" width=800>
+
 ### Credits
 
 I have used MakeHuman extensions, "High heels" and "Nails", from the following pages:
