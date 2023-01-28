@@ -13,7 +13,11 @@ The camera does not seem to have dynamic range high enough, so I need to add a S
 
 The location: Odaiba district in Tokyo.
 
+## Video test
+
 https://user-images.githubusercontent.com/11053654/215272993-5bfee5ff-270c-4e3a-9dc4-7452f17dbe3a.mp4
+
+## Image test
 
 <img src="Camera1.png" width=800>
 
