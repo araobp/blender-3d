@@ -19,6 +19,8 @@ The location: Odaiba district in Tokyo.
 
 <img src="Camera3.png" width=800>
 
+<img src="Camera4.png" width=800>
+
 Reference:
 - [Blender Tutorial: Make Your Own HDR Images (HDRI) using the Ricoh Theta SC](https://www.youtube.com/watch?v=Egq3UcIai8Q)
 
