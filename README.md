@@ -51,9 +51,6 @@ These 3D models are my original 3D models with free textures and materials.
 I made some modifications on these free 3D models.
 
 - [Free 3D models](./modified)
-- [FZK Haus](./modified/FZKHaus.md)
-- [Azuma House](./modified/AzumaHouse.md)
-- [SkyCar](./modified/SkyCar.md)
 
 ### Tips
 
