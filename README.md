@@ -54,7 +54,6 @@ I made some modifications on these free 3D models.
 - [FZK Haus](./modified/FZKHaus.md)
 - [Azuma House](./modified/AzumaHouse.md)
 - [SkyCar](./modified/SkyCar.md)
-- [Rigged models](./rigged_models) (Work in progress)
 
 ### Tips
 
