@@ -9,7 +9,7 @@ ISO: 100 to 1600
 Shutter speed: 1/8000 seconds to 1/8 seconds
 ```
 
-The camera does not seem to have dynamic range high enough (The Sun light is saturated on the picture at shutter speed 1/8000 ISO 100), so I need to add a Sun light in the scene.
+The Sun light is saturated on the picture under the shortest exposure condition(shutter speed 1/8000 ISO 100), so I need to add a Sun light in the scene.
 
 The location: Odaiba district in Tokyo.
 
