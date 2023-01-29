@@ -29,6 +29,10 @@ https://user-images.githubusercontent.com/11053654/215302675-0a591018-8234-4c19-
 
 <img src="Camera4.png" width=800>
 
+## Image composition test
+
+<img src="Camera1_Composition.png" width=800>
+
 Reference:
 - [Blender Tutorial: Make Your Own HDR Images (HDRI) using the Ricoh Theta SC](https://www.youtube.com/watch?v=Egq3UcIai8Q)
 
