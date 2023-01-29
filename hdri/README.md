@@ -31,6 +31,8 @@ https://user-images.githubusercontent.com/11053654/215302675-0a591018-8234-4c19-
 
 ## Image composition test
 
+The background image was taken by my smartphone.
+
 <img src="Camera1_Composition.png" width=800>
 
 Reference:
