@@ -42,15 +42,15 @@ These 3D models are my original 3D models with free textures and materials.
 
 - [scenes](./scenes)
 
+### HDRI
+
+- [hdri](./hdri)
+
 ### Free 3D models from Mixamo etc
 
 I made some modifications on these free 3D models.
 
 - [Free 3D models](./modified)
-- [FZK Haus](./modified/FZKHaus.md)
-- [Azuma House](./modified/AzumaHouse.md)
-- [SkyCar](./modified/SkyCar.md)
-- [Rigged models](./rigged_models) (Work in progress)
 
 ### Tips
 
