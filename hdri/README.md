@@ -1,6 +1,6 @@
 # HDRI test
 
-I test my Ricoh Theat SC if it can be used for making a Blender's Environment Texture.
+I test my Ricoh Theat SC to see if it can be used for making a Blender's Environment Texture.
 
 ```
 The camera's spec
@@ -9,9 +9,11 @@ ISO: 100 to 1600
 Shutter speed: 1/8000 seconds to 1/8 seconds
 ```
 
-The Sun light is saturated on the picture under the shortest exposure condition(shutter speed 1/8000 ISO 100), so I need to add a Sun light in the scene.
+I used GIMP for merging images with three different exposures to create a HDR image.
 
-The location: Odaiba district in Tokyo.
+The Sun light is saturated on the picture under the shortest exposure condition(shutter speed 1/8000 ISO 100), so I need to add a Sun light in the scene for casting shadows on the ground.
+
+The location of the HDR image: Odaiba district in Tokyo.
 
 ## Video test
 

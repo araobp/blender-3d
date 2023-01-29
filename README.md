@@ -25,7 +25,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
 ### My original 3D models
 
-These 3D models are my original 3D models with free textures and materials.
+These 3D models are my original 3D models with free textures and free materials.
 
 - [Robots](./robots)
 - [Tools](./tools)
@@ -42,9 +42,10 @@ These 3D models are my original 3D models with free textures and materials.
 
 - [scenes](./scenes)
 
-### HDRI
+### HDRI and VFX
 
-- [hdri](./hdri)
+- [HDRI test](./hdri)
+- [VFX test](.vfx)
 
 ### Free 3D models from Mixamo etc
 
