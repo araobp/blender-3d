@@ -15,7 +15,7 @@ The Sun light is saturated on the picture under the shortest exposure condition(
 
 The location of the HDR image: Odaiba district in Tokyo.
 
-## Video test
+## Video test (Suzanne)
 
 https://user-images.githubusercontent.com/11053654/215272993-5bfee5ff-270c-4e3a-9dc4-7452f17dbe3a.mp4
 
@@ -40,3 +40,11 @@ The background image was taken by my smartphone.
 Reference:
 - [Blender Tutorial: Make Your Own HDR Images (HDRI) using the Ricoh Theta SC(Part 1)](https://www.youtube.com/watch?v=Egq3UcIai8Q)
 - [Blender Tutorial: Make Your Own HDR Images (HDRI) using the Ricoh Theta SC(Part 2)](https://www.youtube.com/watch?v=-4E181vPAkQ&t=744s)
+
+## Image composition test (Drone)
+
+https://user-images.githubusercontent.com/11053654/215539020-bdc957e6-7011-4de9-9636-b802d5560f32.mp4
+
+
+
+
