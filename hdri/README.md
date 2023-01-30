@@ -43,6 +43,12 @@ Reference:
 
 ## Image composition test (Drone)
 
+The location of the HDR image: a park in Kanagawa, Japan.
+
+A Sun light was added in the scene to enhance the Drone's shadow.
+
+The shadow catcher is a simple plane.
+
 https://user-images.githubusercontent.com/11053654/215539020-bdc957e6-7011-4de9-9636-b802d5560f32.mp4
 
 
