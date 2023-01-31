@@ -51,7 +51,7 @@ The location of the HDR image: a park in Kanagawa, Japan.
 
 A Sun light was added in the scene to enhance the Drone's shadow.
 
-The shadow catcher is a simple plane.
+Note that the shadow catcher is not a simple plane.
 
 => Video on YouTube: https://youtu.be/9N4XoviSjys
 
