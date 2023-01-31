@@ -42,10 +42,9 @@ These 3D models are my original 3D models with free textures and free materials.
 
 - [scenes](./scenes)
 
-### HDRI and VFX
+### HDRI
 
 - [HDRI test](./hdri)
-- [VFX test](./vfx)
 
 ### Free 3D models from Mixamo etc
 
