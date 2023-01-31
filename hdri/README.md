@@ -1,6 +1,6 @@
 # HDRI test
 
-I test my Ricoh Theat SC to see if it can be used for making a Blender's Environment Texture.
+I test my RICOH Theta SC to see if it can be used for making a Blender's Environment Texture.
 
 ```
 The camera's spec
