@@ -55,8 +55,5 @@ Note that the shadow catcher is not a simple plane.
 
 => Video on YouTube: https://youtu.be/9N4XoviSjys
 
-https://user-images.githubusercontent.com/11053654/215539020-bdc957e6-7011-4de9-9636-b802d5560f32.mp4
-
-
 
 
