@@ -5,7 +5,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 <table>
   <tr>
     <td>
-      <img src="./doc/robot_welding.png" width=500>
+    <img src="./doc/drone.png" width=500>
     </td>
     <td>
       <img src="./doc/makehuman_woman.png" width=500>
@@ -16,7 +16,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 <img src='./doc/PC120_IK.png' width=500>
     </td>
     <td>
-<img src="./doc/AzumaHouse.jpg" width=500>
+      <img src="./doc/robot_welding.png" width=500>
     </td>
   </tr>
 </table>
@@ -42,10 +42,9 @@ These 3D models are my original 3D models with free textures and free materials.
 
 - [scenes](./scenes)
 
-### HDRI and VFX
+### HDRI
 
 - [HDRI test](./hdri)
-- [VFX test](./vfx)
 
 ### Free 3D models from Mixamo etc
 

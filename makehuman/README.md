@@ -6,8 +6,8 @@ I made the following modifications on the model:
 - modified the body shape
 - added Metarig and Rigify
 - splitted the teeth into an upper part and a lower part
-- modified the shader for the eyeballs
-- modified the shader for the hair to increase its Gamma value 
+- modified the shader of the eyeballs
+- modified the shader of the hair to increase its Gamma value 
 - disabled shadow on the hair
 
 Reference:
