@@ -1,4 +1,4 @@
-# Office
+# Office Building
 
 ## Flap Barrier Gate with Face Recognition Camera
 
