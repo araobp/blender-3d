@@ -37,7 +37,6 @@ These 3D models are my original 3D models with free textures and free materials.
 - [Liquid](./liquid)
 - [Smoke](./smoke)
 - [Materials](./materials)
-- [My other original 3D models](./my_original)
 
 ### Scenes
 
@@ -47,11 +46,10 @@ These 3D models are my original 3D models with free textures and free materials.
 
 - [HDRI test](./hdri)
 
-### Free 3D models from Mixamo etc
+### The other 3D models I made in the past
 
-I made some modifications on these free 3D models.
-
-- [Free 3D models](./modified)
+- [My other original 3D models](./my_original)
+- [Free 3D models (I made some modifications on these models)](./modified)
 
 ### Tips
 
