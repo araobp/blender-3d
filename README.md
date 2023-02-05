@@ -5,7 +5,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 <table>
   <tr>
     <td>
-    <img src="./doc/drone.png" width=500>
+      <img src="./office/Camera1.png" width=500>
     </td>
     <td>
       <img src="./doc/makehuman_woman.png" width=500>
@@ -13,7 +13,7 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
   </tr>  
     <tr>
     <td>
-<img src='./doc/PC120_IK.png' width=500>
+      <img src="./doc/drone.png" width=500>
     </td>
     <td>
       <img src="./doc/robot_welding.png" width=500>
