@@ -30,7 +30,7 @@ These 3D models are my original 3D models with free textures and free materials.
 - [Robots](./robots)
 - [Tools](./tools)
 - [Illumination](./illumination)
-- [Office](./office)
+- [Office Building](./office)
 - [Human body](./human_body)
 - [MakeHuman](./makehuman)
 - [NASA](./NASA)
