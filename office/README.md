@@ -1,2 +1,5 @@
+# Office
 
-<img src="./Camera1.png" width=400>
+## Flap Barrier Gate with Face Recognition Camera
+
+<img src="./Camera1.png" width=800>
