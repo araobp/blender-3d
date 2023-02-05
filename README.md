@@ -21,11 +21,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
   </tr>
 </table>
     
-## 3D models
-
-### My original 3D models
-
-These 3D models are my original 3D models with free textures and free materials.
+## My original 3DCG
 
 - [Office Building](./office)
 - [Furnitue](./furniture)
@@ -39,16 +35,10 @@ These 3D models are my original 3D models with free textures and free materials.
 - [Smoke](./smoke)
 - [Environment](./environment)
 - [Materials](./materials)
-
-### Scenes
-
-- [scenes](./scenes)
-
-### HDRI
-
+- [3DCG scenes](./scenes)
 - [HDRI test](./hdri)
 
-### The other 3D models I created in the past
+## The other 3D models I created in the past
 
 - [My other original 3D models](./my_original)
 - [Free 3D models (I made some modifications on these models)](./modified)
