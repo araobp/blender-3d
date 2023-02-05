@@ -27,17 +27,17 @@ This repo is a collection of 3D models and 3D animations made with Blender by me
 
 These 3D models are my original 3D models with free textures and free materials.
 
+- [Office Building](./office)
+- [Furnitue](./furniture)
 - [Robots](./robots)
 - [Tools](./tools)
 - [Illumination](./illumination)
-- [Office](./office)
 - [Human body](./human_body)
 - [MakeHuman](./makehuman)
 - [NASA](./NASA)
 - [Liquid](./liquid)
 - [Smoke](./smoke)
 - [Materials](./materials)
-- [My other original 3D models](./my_original)
 
 ### Scenes
 
@@ -47,11 +47,10 @@ These 3D models are my original 3D models with free textures and free materials.
 
 - [HDRI test](./hdri)
 
-### Free 3D models from Mixamo etc
+### The other 3D models I made in the past
 
-I made some modifications on these free 3D models.
-
-- [Free 3D models](./modified)
+- [My other original 3D models](./my_original)
+- [Free 3D models (I made some modifications on these models)](./modified)
 
 ### Tips
 
