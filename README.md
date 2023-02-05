@@ -24,7 +24,6 @@ This repo is a collection of my original 3D models and 3D animations made with B
 ## My original 3DCG
 
 - [Office Building](./office)
-- [Furnitue](./furniture)
 - [Robots](./robots)
 - [Tools](./tools)
 - [Illumination](./illumination)
@@ -33,6 +32,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [NASA](./NASA)
 - [Liquid](./liquid)
 - [Smoke](./smoke)
+- [Furnitue](./furniture)
 - [Environment](./environment)
 - [Materials](./materials)
 - [3DCG scenes](./scenes)
