@@ -1,4 +1,4 @@
-# Models made with Blender
+# 3DCG made with Blender
 
 This repo is a collection of 3D models and 3D animations made with Blender by me.
 
