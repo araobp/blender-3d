@@ -37,6 +37,7 @@ These 3D models are my original 3D models with free textures and free materials.
 - [NASA](./NASA)
 - [Liquid](./liquid)
 - [Smoke](./smoke)
+- [Environment](./environment)
 - [Materials](./materials)
 
 ### Scenes
