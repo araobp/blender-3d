@@ -34,9 +34,9 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Smoke](./smoke)
 - [Furnitue](./furniture)
 - [Environment](./environment)
-- [Materials](./materials)
 - [3DCG scenes](./scenes)
 - [HDRI test](./hdri)
+- [Materials](./materials)
 
 ## The other 3D models I created in the past
 
