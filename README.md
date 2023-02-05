@@ -48,7 +48,7 @@ These 3D models are my original 3D models with free textures and free materials.
 
 - [HDRI test](./hdri)
 
-### The other 3D models I made in the past
+### The other 3D models I created in the past
 
 - [My other original 3D models](./my_original)
 - [Free 3D models (I made some modifications on these models)](./modified)
