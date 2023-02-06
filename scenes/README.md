@@ -2,7 +2,7 @@
 
 ## Office Building
 
-<img src="./OfficeBuilding/Camera1.png" width=400>
+<img src="./OfficeBuilding/Camera1.png" width=800>
 
 ## Coffee Break
 
