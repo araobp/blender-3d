@@ -5,7 +5,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 <table>
   <tr>
     <td>
-      <img src="./office/Camera1.png" width=500>
+      <img src="./scenes/OfficeBuilding/Camera2.png" width=500>
     </td>
     <td>
       <img src="./doc/makehuman_woman.png" width=500>
