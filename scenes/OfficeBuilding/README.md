@@ -7,6 +7,8 @@ References:
 - [How to Make Eevee More Realistic (Blender Tutorial)](https://www.youtube.com/watch?v=jxQEPjPTJyw)
 - [Realistic Glass Shader in Blender Eevee (Tutorial)](https://www.youtube.com/watch?v=JYyUMMboZFk)
 
+## Face Recognition Gates
+
 <img src="./FaceRecognitionCamera1.png" width=800>
 
 <img src="./FaceRecognitionCamera2.png" width=800>
