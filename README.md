@@ -23,6 +23,12 @@ This repo is a collection of my original 3D models and 3D animations made with B
     
 ## My original 3DCG
 
+### 3DCG scenes
+
+- [Face Recognition Flip Barrier Gates](./scenes/OfficeBuilding)
+
+### 3D models
+
 - [Office Building](./office)
 - [Robots](./robots)
 - [Tools](./tools)
@@ -34,7 +40,6 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Smoke](./smoke)
 - [Furnitue](./furniture)
 - [Environment](./environment)
-- [3DCG scenes](./scenes)
 - [HDRI test](./hdri)
 - [Materials](./materials)
 
