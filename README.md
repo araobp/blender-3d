@@ -5,7 +5,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 <table>
   <tr>
     <td>
-      <img src="./scenes/OfficeBuilding/Camera6.png" width=500>
+      <img src="./scenes/OfficeBuilding/Camera8.png" width=500>
     </td>
     <td>
       <img src="./doc/makehuman_woman.png" width=500>
@@ -23,6 +23,13 @@ This repo is a collection of my original 3D models and 3D animations made with B
     
 ## My original 3DCG
 
+### 3DCG scenes
+
+- [Office Building: Face Recognition Flip Barrier Gates](./scenes/OfficeBuilding)
+- [Coffee Break](./scenes)
+
+### 3D models
+
 - [Office Building](./office)
 - [Robots](./robots)
 - [Tools](./tools)
@@ -34,7 +41,6 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Smoke](./smoke)
 - [Furnitue](./furniture)
 - [Environment](./environment)
-- [3DCG scenes](./scenes)
 - [HDRI test](./hdri)
 - [Materials](./materials)
 

@@ -11,11 +11,7 @@ References:
 - [High Heels Walk in Beverly Hills](https://www.youtube.com/watch?v=nuXZLcfOFqQ)
 - [3DCGアニメーション入門 (Book)](https://www.borndigital.co.jp/book/19710.html)
 
-## Face Recognition Gates
-
-<img src="./FaceRecognitionCamera1.png" width=800>
-
-<img src="./FaceRecognitionCamera2.png" width=800>
+## Face Recognition Flip Barrier Gates
 
 <img src="./Camera1.png" width=800>
 
@@ -33,3 +29,8 @@ References:
 
 <img src="./Camera8.png" width=800>
 
+## View from Face Recognition Cameras
+
+<img src="./FaceRecognitionCamera1.png" width=800>
+
+<img src="./FaceRecognitionCamera2.png" width=800>
