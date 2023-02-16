@@ -1,9 +1,5 @@
 # Office Building
 
-This is my first walk cycle animation.
-
-This scene is rendered with Eevee.
-
 References:
 
 - [How to Make Eevee More Realistic (Blender Tutorial)](https://www.youtube.com/watch?v=jxQEPjPTJyw)
@@ -13,6 +9,12 @@ References:
 - [3DCGアニメーション入門 (Book)](https://www.borndigital.co.jp/book/19710.html)
 
 ## Face Recognition Flip Barrier Gates
+
+Video on YouTube => [https://youtu.be/dNNRRoBs6cM]
+
+This is my first walk cycle animation.
+
+This scene is rendered with Eevee.
 
 All the 3D models and animations have been created by me.
 - The walking woman was created with Makehuman
