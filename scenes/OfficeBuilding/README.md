@@ -32,24 +32,4 @@ I have used the following sound sources from freesound.org in the scene:
 - [success.wav](https://freesound.org/people/grunz/sounds/109662/)
 - [Elevator door 06.wav](https://freesound.org/people/LG/sounds/73122/)
 
-<img src="./Camera1.png" width=800>
-
-<img src="./Camera2.png" width=800>
-
-<img src="./Camera3.png" width=800>
-
-<img src="./Camera4.png" width=800>
-
-<img src="./Camera5.png" width=800>
-
-<img src="./Camera6.png" width=800>
-
-<img src="./Camera7.png" width=800>
-
-<img src="./Camera8.png" width=800>
-
-## View from Face Recognition Cameras
-
-<img src="./FaceRecognitionCamera1.png" width=800>
-
-<img src="./FaceRecognitionCamera2.png" width=800>
+https://user-images.githubusercontent.com/11053654/219316661-2fe2dd50-7731-4075-ab9d-f03568092942.mp4
