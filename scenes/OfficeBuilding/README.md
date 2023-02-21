@@ -8,7 +8,7 @@ References:
 - [Time Node in Blender 2.81?](https://blender.stackexchange.com/questions/158837/time-node-in-blender-2-81)
 - [3DCGアニメーション入門 (Book)](https://www.borndigital.co.jp/book/19710.html)
 
-## Face Recognition Flip Barrier Gates
+## Face Recognition Flap Barrier Gates
 
 Video on YouTube => [https://youtu.be/N-dCsRtM6n0]
 
