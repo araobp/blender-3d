@@ -25,7 +25,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 
 ### 3DCG scenes
 
-- [Office Building: Face Recognition Flip Barrier Gates](./scenes/OfficeBuilding)
+- [Office Building: Face Recognition Flap Barrier Gates](./scenes/OfficeBuilding)
 - [Coffee Break](./scenes)
 
 ### 3D models
