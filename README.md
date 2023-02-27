@@ -5,7 +5,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 <table>
   <tr>
     <td>
-      <img src="./scenes/OfficeBuilding/Camera9.png" width=500>
+      <img src="./doc/AzumaHouse.jpg" width=500>
     </td>
     <td>
       <img src="./doc/makehuman_woman.png" width=500>
@@ -25,7 +25,6 @@ This repo is a collection of my original 3D models and 3D animations made with B
 
 ### 3DCG scenes
 
-- [Office Building: Face Recognition Flap Barrier Gates](./scenes/OfficeBuilding)
 - [Coffee Break](./scenes)
 
 ### 3D models
