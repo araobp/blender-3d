@@ -34,6 +34,8 @@ Reference: [How to Make a Realistic Moon in Blender (Beginner Tutorial)](https:/
 
 ## Moon Surface
 
+I made use of geometry nodes to scatter the rocks on the moon ground.
+
 Reference: [How to Scatter Objects WITH GEOMETRY NODES in 2023! (Blender Tutorial)](https://www.youtube.com/watch?v=iNU-1ORXw74)
 
 Starmap source: https://svs.gsfc.nasa.gov/3895
