@@ -31,3 +31,11 @@ Reference: [How to Make a Realistic Moon in Blender (Beginner Tutorial)](https:/
 ### Mare
 
 <img src="Moon-Cycles/Mare.png" width=800>
+
+## Moon Surface
+
+Reference: [How to Scatter Objects WITH GEOMETRY NODES in 2023! (Blender Tutorial)](https://www.youtube.com/watch?v=iNU-1ORXw74)
+
+Starmap source: https://svs.gsfc.nasa.gov/3895
+
+<img src="Moon%20Surface/moon_surface.png" width=800>
