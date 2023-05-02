@@ -41,3 +41,14 @@ Reference: [How to Scatter Objects WITH GEOMETRY NODES in 2023! (Blender Tutoria
 Starmap source: https://svs.gsfc.nasa.gov/3895
 
 <img src="Moon%20Surface/moon_surface.png" width=800>
+
+## Moon Base with help from Stable Diffusion
+
+### Orignial image
+
+<img src="Moon%20Surface/moon_surface_original.png" width=800>
+
+### Stable Diffusion with "Moon Base" prompt
+
+<img src="Moon%20Surface/moon_surface_stable_diffusion.png" width=800>
+
