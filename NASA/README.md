@@ -44,6 +44,12 @@ Starmap source: https://svs.gsfc.nasa.gov/3895
 
 ## Moon Base with help from Stable Diffusion
 
+I tested Stable Diffusioin Blender Add-on.
+
+https://blendermarket.com/products/ai-render
+
+The result was amazing!
+
 ### Orignial image
 
 <img src="Moon%20Surface/moon_surface_original.png" width=800>
