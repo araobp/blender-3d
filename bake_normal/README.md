@@ -4,4 +4,4 @@ The image above was rendered with Eevee engine. The left box is a low-poly objec
 
 <img src="./BakeNormalMapUV.png" width=800>
 
-The image above is a UV map and a normal map of the low-poly object.
+The image above is a UV map and a normal map of the low-poly object. "Shade Smooth" was applied to the low-poly one. 
