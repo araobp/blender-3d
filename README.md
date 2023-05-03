@@ -50,7 +50,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 ### Tips
 
 - [Tips](./tips)
-- [Baking normal map](./bake_normal_map)
+- [Baking normal map](./bake_normal)
 
 ## Video (animations) and pictures generated with Blender
 
