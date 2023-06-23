@@ -32,7 +32,7 @@ Reference: [How to Make a Realistic Moon in Blender (Beginner Tutorial)](https:/
 
 <img src="Moon-Cycles/Mare.png" width=800>
 
-## Moon Orbit
+## Moon Satellite view
 
 YouTube => https://youtu.be/WKvi7je3oDE
 
