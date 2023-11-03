@@ -29,6 +29,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 
 ### 3D models
 
+- [eVTOL](./eVTOL)
 - [Robots](./robots)
 - [Tools](./tools)
 - [Illumination](./illumination)
