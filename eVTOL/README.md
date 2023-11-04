@@ -6,3 +6,6 @@ My original Sky Car.
 
 => [Video on YouTube](https://youtu.be/1Ucw4LMh3Ow)
 
+## Credit
+
+The HDRI image is from https://polyhaven.com/a/noon_grass
