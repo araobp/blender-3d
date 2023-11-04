@@ -25,7 +25,8 @@ This repo is a collection of my original 3D models and 3D animations made with B
 
 ### 3DCG scenes
 
-- [Coffee Break](./scenes)
+- [Coffee Break](./scenes/CoffeeBreak)
+- [Face Recognitaion Gates](./scenes/FaceRecognitionGates)
 
 ### 3D models
 
