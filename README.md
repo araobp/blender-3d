@@ -16,7 +16,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
       <img src="./doc/drone.png" width=500>
     </td>
     <td>
-      <img src="./doc/robot_welding.png" width=500>
+      <img src="./doc/FaceRecognitionGates.png" width=500>
     </td>
   </tr>
 </table>
