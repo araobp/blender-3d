@@ -10,7 +10,7 @@ References:
 
 ## Face Recognition Flap Barrier Gates
 
-Video on YouTube => [https://youtu.be/N-dCsRtM6n0]
+=> [Video on YouTube](https://youtu.be/N-dCsRtM6n0)
 
 This is my first walk cycle animation.
 
