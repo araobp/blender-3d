@@ -8,6 +8,11 @@ This is my first VFX work.
   
 <img src="DisneySea/disneysea_lady.png" width=500>
 
+### 3D models used in the scene
+
+- I used MPFB2 to generate the lady.
+- I modeled the suit case and took the background picture by myself.
+
 ### Credits
 
 On the lady, I have used MakeHuman extensions, "High heels" and "Nails", from the following pages:
