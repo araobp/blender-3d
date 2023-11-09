@@ -6,8 +6,6 @@ This is my first VFX work.
 
 => [Disney Sea](./DisneySea)
   
-<img src="DisneySea/disneysea_lady.png" width=500>
-
 <img src="DisneySea/disneysea_lady_crop.png" width=500>
 
 ### 3D models used in the scene
