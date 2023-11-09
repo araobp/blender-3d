@@ -19,3 +19,16 @@ On the lady, I have used MakeHuman extensions, "High heels" and "Nails", from th
 
 - High heels: http://www.makehumancommunity.org/clothes/high_heels_library.html
 - Nails: http://www.makehumancommunity.org/clothes/mind_nails_02_medium.html
+
+## Shinjuku, Tokyo
+
+This is my second VFX work.
+
+=> [Shinjuku](./Shinjuku)
+  
+<img src="Shinjuku/shinjuku.png" width=700>
+
+### 3D models used in the scene
+
+- I used MPFB2 to generate the lady.
+- I modeled the eVTOL and took the background picture by myself.
