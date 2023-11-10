@@ -17,9 +17,6 @@ This is my first VFX work.
   </tr>
 </table>
 
-
-
-
 ### 3D models used in the scene
 
 - I used MPFB2 to generate the lady.
@@ -37,8 +34,17 @@ On the lady, I have used MakeHuman extensions, "High heels" and "Nails", from th
 This is my second VFX work.
 
 => [Shinjuku](./Shinjuku)
-  
-<img src="Shinjuku/shinjuku.png" width=700>
+
+<table>
+  <tr>
+    <td>
+      <img src="Shinjuku/IMG_0594.png" width=500>
+    </td>
+    <td>
+      <img src="Shinjuku/shinjuku.png" width=500>
+    </td>
+  </tr>
+</table>
 
 ### 3D models used in the scene
 
