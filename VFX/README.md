@@ -5,10 +5,17 @@
 This is my first VFX work.
 
 => [Disney Sea](./DisneySea)
-  
-<img src="DisneySea/disneysea_lady.png" width=500>
 
-<img src="DisneySea/disneysea_lady_crop.png" width=500>
+<table>
+  <tr>
+    <td>
+      <img src="DisneySea/IMG_0204_crop.jpg" width=500>
+    </td>
+    <td>
+      <img src="DisneySea/disneysea_lady_crop.png" width=500>
+    </td>
+  </tr>
+</table>
 
 ### 3D models used in the scene
 
@@ -27,8 +34,17 @@ On the lady, I have used MakeHuman extensions, "High heels" and "Nails", from th
 This is my second VFX work.
 
 => [Shinjuku](./Shinjuku)
-  
-<img src="Shinjuku/shinjuku.png" width=700>
+
+<table>
+  <tr>
+    <td>
+      <img src="Shinjuku/IMG_0594.png" width=500>
+    </td>
+    <td>
+      <img src="Shinjuku/shinjuku.png" width=500>
+    </td>
+  </tr>
+</table>
 
 ### 3D models used in the scene
 
