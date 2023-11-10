@@ -75,6 +75,7 @@ This is my second VFX work.
 
 Reference: [How to Create a Shadow Catcher for EEVEE](https://youtu.be/7OOCjR5s9EQ)
 
-3D models used in the scene
-I used MPFB2 to generate the lady.
-I modeled the eVTOL and took the background picture by myself.
+### 3D models used in the scene
+
+- I used MPFB2 to generate the lady.
+- I modeled the eVTOL and took the background picture by myself.
