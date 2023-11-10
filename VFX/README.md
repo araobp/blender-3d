@@ -17,7 +17,7 @@ This is my first VFX work.
   </tr>
 </table>
 
-### Chainging clothes with Stable Diffusion Inpaint
+### Chainging clothes with Stable Diffusion Inpaint (Generative AI)
 
 I ran Stable Diffusion Web UI "AUTOMATIC1111" on my Mac to change the clothes.
 
