@@ -72,3 +72,5 @@ This is my second VFX work.
 ## Mita, Tokyo
 
 => [Mita](./Mita)
+
+Reference: [How to Create a Shadow Catcher for EEVEE](https://youtu.be/7OOCjR5s9EQ)
