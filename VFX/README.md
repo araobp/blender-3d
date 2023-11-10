@@ -17,6 +17,24 @@ This is my first VFX work.
   </tr>
 </table>
 
+### Chainging clothes with Stable Diffusion Inpaint (Generative AI)
+
+I ran Stable Diffusion Web UI [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) on my Mac to change the clothes.
+
+<table>
+  <tr>
+    <td>
+      <img src="DisneySea/stable_diffusion_inpaint/inpaint1.png" width=333>
+    </td>
+    <td>
+      <img src="DisneySea/stable_diffusion_inpaint/inpaint2.png" width=333>
+    </td>
+    <td>
+      <img src="DisneySea/stable_diffusion_inpaint/inpaint3.png" width=333>
+    </td>
+  </tr>
+</table>
+
 ### 3D models used in the scene
 
 - I used MPFB2 to generate the lady.
