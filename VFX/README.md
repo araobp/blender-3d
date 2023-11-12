@@ -68,16 +68,3 @@ This is my second VFX work.
 
 - I used MPFB2 to generate the lady.
 - I modeled the eVTOL and took the background picture by myself.
-
-## Mita, Tokyo
-
-=> [Mita](./Mita)
-
-Reference: [How to Create a Shadow Catcher for EEVEE](https://youtu.be/7OOCjR5s9EQ)
-
-<img src="./Mita/eevee_shadowcatcher.png" width=800>
-
-### 3D models used in the scene
-
-- I used MPFB2 to generate the lady.
-- I modeled the eVTOL and took the background picture by myself.
