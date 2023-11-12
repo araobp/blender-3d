@@ -13,11 +13,3 @@ Use "EmptyForward" object to move the body.
 [PTZ Camera](./my_original/ptz_camera.blend)
 
 <img src="../doc/PTZCamera.jpg" width=350>
-
-## AR Origin
-
-This 3D model is useful for AR applications made with Unity.
-
-[AR Origin](./my_original/origin.blend)
-
-<img src="../doc/Origin.jpg" width=350>
