@@ -1,4 +1,4 @@
-## Eevee lighting
+# Indirect lighting and reflection with Eevee
 
 I used Reflection Cubemap, Reflection Plane and Irradiance Volume for indirect lighting.
 
