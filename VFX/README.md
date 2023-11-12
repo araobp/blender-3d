@@ -42,7 +42,7 @@ I ran Stable Diffusion Web UI [AUTOMATIC1111](https://github.com/AUTOMATIC1111/s
 
 ### Credits
 
-On the lady, I have used MakeHuman extensions, "High heels" and "Nails", from the following pages:
+I have used MakeHuman extensions, "High heels" and "Nails", from the following pages:
 
 - High heels: http://www.makehumancommunity.org/clothes/high_heels_library.html
 - Nails: http://www.makehumancommunity.org/clothes/mind_nails_02_medium.html
