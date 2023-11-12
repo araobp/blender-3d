@@ -33,20 +33,20 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [VFX and Stable Diffusion](./VFX)
 - [Indirect lighting and reflection with Eevee](./EeveeLighting)
 - [SKYCAR(eVTOL)](./eVTOL)
+- [Illumination](./illumination)
+- [HDRI test](./hdri)
+- [Smoke](./smoke)
+- [Liquid](./liquid)
 
 ### 3D models
 
 - [Robots](./robots)
 - [Tools](./tools)
-- [Illumination](./illumination)
 - [Human body](./human_body)
 - [MakeHuman](./makehuman)
 - [NASA](./NASA)
-- [Liquid](./liquid)
-- [Smoke](./smoke)
 - [Furnitue](./furniture)
 - [Environment](./environment)
-- [HDRI test](./hdri)
 - [Materials](./materials)
 
 ## The other 3D models I created in the past
