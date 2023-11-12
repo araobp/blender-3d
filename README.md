@@ -28,11 +28,14 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Coffee Break](./scenes/CoffeeBreak)
 - [Face Recognitaion Gates](./scenes/FaceRecognitionGates)
 
-### 3D models
+### Photoreal and Generative AI
 
 - [VFX](./VFX)
-- [Eevee lighting](./EeveeLighting)
+- [Eevee indirect lighting](./EeveeLighting)
 - [SKYCAR(eVTOL)](./eVTOL)
+
+### 3D models
+
 - [Robots](./robots)
 - [Tools](./tools)
 - [Illumination](./illumination)
