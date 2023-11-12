@@ -8,7 +8,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
       <img src="./doc/SKYCAR.png" width=500>
     </td>
     <td>
-      <img src="./doc/makehuman_woman.png" width=500>
+      <img src="./doc/coffee_break.png" width=500>
     </td>
   </tr>  
     <tr>
