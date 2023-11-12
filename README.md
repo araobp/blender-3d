@@ -30,7 +30,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 
 ### Photoreal and Generative AI
 
-- [VFX and Stable Difusion](./VFX)
+- [VFX and Stable Diffusion](./VFX)
 - [Indirect lighting and reflection with Eevee](./EeveeLighting)
 - [SKYCAR(eVTOL)](./eVTOL)
 
