@@ -71,7 +71,7 @@ This is my second VFX work.
 
 ## Road
 
-I learned how to make a VFX movie from [this YouTube tutorial](https://youtu.be/o2uy7SDcQak).
+I learned how to make a VFX movie from [this tutorial on YouTube](https://youtu.be/o2uy7SDcQak).
 
 https://github.com/araobp/blender-3d/assets/11053654/b4d2882a-06ee-445f-9a4e-7d29f6e13c69
 
