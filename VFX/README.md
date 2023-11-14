@@ -92,4 +92,4 @@ I applied Render Region to the scene to render only a certain region, then I com
 
 <img src="Road/tips/Foreground.png" width=800>
 
-<img src="Road/tips/FinalResult.png" width=800>
+<img src="Road/tips/Final.png" width=800>
