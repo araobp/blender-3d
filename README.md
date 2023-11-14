@@ -13,7 +13,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
   </tr>  
     <tr>
     <td>
-      <img src="./doc/drone.png" width=500>
+      <img src="./doc/UnitySkyCarTimeline24.png" width=500>
     </td>
     <td>
       <img src="./doc/eevee_lighting.png" width=500>
