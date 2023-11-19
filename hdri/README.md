@@ -57,4 +57,8 @@ Note that the shadow catcher is not a simple plane.
 
 ## EEVEE shadow catcher
 
-<img src="./eevee_shadowcatcher.png" width=600>
+The material below can be used as a shadow catcher for EEVEE.
+
+Reference: https://youtu.be/gzAr3VyLMOY
+
+<img src="./eevee_shadowcatcher.png" width=800>
