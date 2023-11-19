@@ -50,4 +50,9 @@ https://user-images.githubusercontent.com/11053654/214347609-995c30a7-0701-411e-
 
 https://user-images.githubusercontent.com/11053654/214347663-e174000c-0931-4b4c-b769-0ed68460bbf1.mp4
 
+## Coffee Break in Theaterplatz (Theater Square), Dresden (EEVEE-version)
+
+
+
+
 
