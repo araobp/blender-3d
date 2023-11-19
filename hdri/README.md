@@ -55,5 +55,6 @@ Note that the shadow catcher is not a simple plane.
 
 => Video on YouTube: https://youtu.be/9N4XoviSjys
 
+## EEVEE shadow catcher
 
-
+<img src="./eevee_shadowcatcher.png" width=600>
