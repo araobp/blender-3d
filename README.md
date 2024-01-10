@@ -27,10 +27,6 @@ This repo is a collection of my original 3D models and 3D animations made with B
 
 - [Scenes](./scenes)
 
-### Theaters
-
-- [Turning a conference room into a cinema theater](./multi_screens)
-
 ### Photoreal and Generative AI
 
 - [VFX and Stable Diffusion](./VFX)
