@@ -1,9 +1,5 @@
 # Animation Excercises
 
-## References
-
-- [Rigging Eyes in Blender with Rigfy](https://youtu.be/RsOu0CfmJpE)
-
 ### Stand Up and Sit Down
 
 => [Blender file](./woman_in_sweater.blend)
