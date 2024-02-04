@@ -1,5 +1,9 @@
 # Animation Excercises
 
+### Bow
+
+https://github.com/araobp/blender-3d/assets/11053654/f86e43b0-9ea2-4aa2-ab12-baabf973983d
+
 ### Stand Up and Sit Down
 
 => [Blender file](./woman_in_sweater.blend)
