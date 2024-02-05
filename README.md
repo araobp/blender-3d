@@ -51,6 +51,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Furnitue](./furniture)
 - [Environment](./environment)
 - [Materials](./materials)
+- [Animation Excercises](./excercises)
 
 ## The other 3D models I created in the past
 
