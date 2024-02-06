@@ -12,5 +12,7 @@ https://github.com/araobp/blender-3d/assets/11053654/8024e815-d2a2-4652-a3d7-0d2
 
 ### Walk
 
+=> [Blender file](./woman_walking.blend)
+
 https://github.com/araobp/blender-3d/assets/11053654/36508ed2-73bc-46d3-8d9d-233e5512c5fe
 
