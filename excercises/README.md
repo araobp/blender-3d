@@ -14,5 +14,8 @@ https://github.com/araobp/blender-3d/assets/11053654/8024e815-d2a2-4652-a3d7-0d2
 
 => [Blender file](./woman_walking.blend)
 
-https://github.com/araobp/blender-3d/assets/11053654/36508ed2-73bc-46d3-8d9d-233e5512c5fe
+https://github.com/araobp/blender-3d/assets/11053654/dc3e8fcc-2e8e-403b-bc40-6b22ace47f8b
+
+https://github.com/araobp/blender-3d/assets/11053654/bfdb0bea-f8b5-4891-acd8-223ff46bac24
+
 
