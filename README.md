@@ -21,7 +21,7 @@ I use Blender for developing MVP (Minimum Viable Product) to materialize a new i
   </tr>
 </table>
     
-## My original 3DCG
+## My original 3DCG works
 
 ### 3DCG scenes
 
