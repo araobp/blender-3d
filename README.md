@@ -1,6 +1,6 @@
 # 3DCG made with Blender
 
-This repo is a collection of my original 3D models and 3D animations made with Blender.
+I use Blender for developing MVP (Minimum Viable Product) to materialize a new business idea at work. This repo is a collection of my hobby works made with Blender.
 
 <table>
   <tr>
