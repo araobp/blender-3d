@@ -27,6 +27,10 @@ This repo is a collection of my original 3D models and 3D animations made with B
 
 - [Scenes](./scenes)
 
+## Animations
+
+- [Animation Excercises](./excercises)
+
 ### Photoreal and Generative AI
 
 - [VFX and Stable Diffusion](./VFX)
@@ -47,7 +51,6 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Furnitue](./furniture)
 - [Environment](./environment)
 - [Materials](./materials)
-- [Animation Excercises](./excercises)
 
 ### Audio
 
