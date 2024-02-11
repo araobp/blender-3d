@@ -22,3 +22,6 @@ https://github.com/araobp/blender-3d/assets/11053654/7198cb81-92fb-4346-99d5-041
 
 https://github.com/araobp/blender-3d/assets/11053654/bd4d4609-29b9-4d50-9a8b-2315fc735150
 
+https://github.com/araobp/blender-3d/assets/11053654/5595c382-b716-447b-8c57-b5c74990452c
+
+
