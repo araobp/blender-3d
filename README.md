@@ -37,10 +37,6 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Smoke](./smoke)
 - [Liquid](./liquid)
 
-### Audio
-
-- [Testing Blender's speakers](audio/speakers)
-
 ### 3D models
 
 - [Robots](./robots)
@@ -52,6 +48,10 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Environment](./environment)
 - [Materials](./materials)
 - [Animation Excercises](./excercises)
+
+### Audio
+
+- [Testing Blender's speakers](audio/speakers)
 
 ### Tips
 
