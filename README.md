@@ -58,7 +58,7 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Tips](./tips)
 - [Baking normal map](./bake_normal)
 
-## The other 3D models I created in the past
+### The other 3D models I created in the past
 
 - [My other original 3D models](./my_original)
 - [Free 3D models (I made some modifications on these models)](./modified)
