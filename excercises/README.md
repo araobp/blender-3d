@@ -1,5 +1,7 @@
 # Animation Excercises
 
+My text book to learn 3DCG animations: https://www.borndigital.co.jp/book/19710/
+
 ### Bow
 
 https://github.com/araobp/blender-3d/assets/11053654/f86e43b0-9ea2-4aa2-ab12-baabf973983d
