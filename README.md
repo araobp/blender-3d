@@ -27,7 +27,7 @@ I use Blender for developing MVP (Minimum Viable Product) to materialize a new i
 
 - [Scenes](./scenes)
 
-## Animations
+### Animations
 
 - [Animation Excercises](./excercises)
 
