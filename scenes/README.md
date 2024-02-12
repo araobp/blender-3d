@@ -1,7 +1,8 @@
 # Scenes
 
 - [Coffee Break](CoffeeBreak)
-- [Theaterplatz Dresden]()
+- [Theaterplatz Dresden](TheaterplatzDresden)
+- [Azuma House](AzumaHouse)
 
 ## Zwinger
 
