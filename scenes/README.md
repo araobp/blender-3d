@@ -4,7 +4,7 @@
 
 - [Azuma House](AzumaHouse) (Work in progress)
 - [Zwinger](Zwinger)
-- [Face Recogntion Gates](FaceRecogntionGates)
+- [Face Recogntion Gates](FaceRecognitionGates)
 
 ## Rendered with Cycles
 
