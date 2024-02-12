@@ -1,6 +1,6 @@
 # 3DCG made with Blender
 
-This repo is a collection of my original 3D models and 3D animations made with Blender.
+I use Blender for developing MVP (Minimum Viable Product) to materialize a new idea at work. This repo is a collection of my hobby works made with Blender.
 
 <table>
   <tr>
@@ -21,11 +21,15 @@ This repo is a collection of my original 3D models and 3D animations made with B
   </tr>
 </table>
     
-## My original 3DCG
+## My original 3DCG works
 
 ### 3DCG scenes
 
 - [Scenes](./scenes)
+
+### Animations
+
+- [Animation Excercises](./excercises)
 
 ### Photoreal and Generative AI
 
@@ -37,10 +41,6 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Smoke](./smoke)
 - [Liquid](./liquid)
 
-### Audio
-
-- [Testing Blender's speakers](audio/speakers)
-
 ### 3D models
 
 - [Robots](./robots)
@@ -51,27 +51,22 @@ This repo is a collection of my original 3D models and 3D animations made with B
 - [Furnitue](./furniture)
 - [Environment](./environment)
 - [Materials](./materials)
-- [Animation Excercises](./excercises)
 
-## The other 3D models I created in the past
+### Audio
 
-- [My other original 3D models](./my_original)
-- [Free 3D models (I made some modifications on these models)](./modified)
+- [Testing Blender's speakers](audio/speakers)
 
 ### Tips
 
 - [Tips](./tips)
 - [Baking normal map](./bake_normal)
 
-## Video (animations) and pictures generated with Blender
+### The other 3D models I created in the past
 
-### Video (animations)
-
-=> [Video](./doc/VIDEO.md)
-
-### 3D model viewer
-
-Part of the models in this repo can be viewed via this [3D model viewer](https://araobp.github.io/blender-3d/gltf/viewer.html).
+- [My other original 3D models](./my_original)
+- [Free 3D models (I made some modifications on these models)](./modified)
+- [Video](./doc/VIDEO.md)
+- [3D model viewer](https://araobp.github.io/blender-3d/gltf/viewer.html).
 
 ## Data sources
 
@@ -87,8 +82,8 @@ In this project, I use free 3D models, 3D animation and textures from these site
 
 Part of the 3D models in this repo are dependent on the following add-ons:
 
+- [MPFBv2 Alpha3](http://static.makehumancommunity.org/mpfb/releases/release_20a3.html)
 - [BlenderBIM](https://blenderbim.org/)
-- Rigify
 
 ## References
 
