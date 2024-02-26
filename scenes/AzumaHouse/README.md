@@ -8,3 +8,4 @@
 
 https://github.com/araobp/blender-3d/assets/11053654/410dd785-50b3-4393-8345-e8e5880d1f2c
 
+![LivingRoom](https://github.com/araobp/blender-3d/assets/11053654/1fb88760-51a5-4092-92d3-c0af94cd2a2a)
