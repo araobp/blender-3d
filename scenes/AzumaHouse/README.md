@@ -1,5 +1,7 @@
 # Azuma House (Work in Progress)
 
+The original IFC format BIM is on this site: https://openifcmodel.cs.auckland.ac.nz/
+
 ## Test shot
 
 ![ViewFromSide](https://github.com/araobp/blender-3d/assets/11053654/998b86cd-2c4a-44ef-b945-36a883541069)
