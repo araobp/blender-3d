@@ -2,6 +2,8 @@
 
 The original IFC format BIM is on this site: https://openifcmodel.cs.auckland.ac.nz/
 
+All the human models are made with MPFB2.
+
 ## Test shot
 
 ![ViewFromSide](https://github.com/araobp/blender-3d/assets/11053654/998b86cd-2c4a-44ef-b945-36a883541069)
