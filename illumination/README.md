@@ -37,15 +37,9 @@ Reference: [Beginner Blender Modelling Tutorial - Lightbulb Part 1 of 2](https:/
 
 <img src="./christmas_light-Cycles/Camera1.png" width=1000>
 
-## Spark (spark.blend)
-
-Reference: [Making Sparks in Blender Beginner Tutorial](https://youtube.com/watch?v=8XFz-wqv3Kc&si=EnSIkaIECMiOmarE)
-
-https://user-images.githubusercontent.com/11053654/209604800-37f412e6-118b-4939-a3f6-023f76861bb3.mp4
-
 ## Welding (welding.blend)
 
-https://user-images.githubusercontent.com/11053654/209604830-9276449d-2abe-4b12-8574-55a19da865fb.mp4
+https://github.com/araobp/blender-3d/assets/11053654/d6ceaed0-7344-4967-9ecd-48481d7cf470
 
 => [Video on YouTube](https://youtu.be/F15Zp4pqwVk)
 
