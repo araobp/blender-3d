@@ -8,13 +8,13 @@ https://github.com/araobp/blender-3d/assets/11053654/f86e43b0-9ea2-4aa2-ab12-baa
 
 ### Stand Up and Sit Down
 
-https://github.com/araobp/blender-3d/assets/11053654/8024e815-d2a2-4652-a3d7-0d20c93ef8c5
+https://github.com/araobp/blender-3d/assets/11053654/1978076e-d4e4-4839-8f24-456b583d80f5
 
 ### Walk
 
-https://github.com/araobp/blender-3d/assets/11053654/8b9cc0e1-8693-4e7a-b865-896d82538c61
+https://github.com/araobp/blender-3d/assets/11053654/956a65a3-dc06-4080-a916-61bd7c01ad2a
 
-https://github.com/araobp/blender-3d/assets/11053654/2d51d15c-5ebd-4919-8813-3f368140ade9
+https://github.com/araobp/blender-3d/assets/11053654/e593bf02-a9d1-445b-9f26-1414a4f8bb07
 
 ### Run
 
