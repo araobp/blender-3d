@@ -4,6 +4,8 @@ The original IFC format BIM is on this site: https://openifcmodel.cs.auckland.ac
 
 All the human models are made with MPFB2.
 
+All the pictures and movies are rendered with EEVEE.
+
 ## Test shot
 
 ![ViewFromSide](https://github.com/araobp/blender-3d/assets/11053654/299a0398-7bd3-4b3c-a46c-00c06406f375)
