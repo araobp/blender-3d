@@ -4,14 +4,16 @@ The original IFC format BIM is on this site: https://openifcmodel.cs.auckland.ac
 
 All the human models are made with MPFB2.
 
+All the pictures and movies are rendered with EEVEE.
+
 ## Test shot
 
-![ViewFromSide](https://github.com/araobp/blender-3d/assets/11053654/998b86cd-2c4a-44ef-b945-36a883541069)
+![ViewFromSide](https://github.com/araobp/blender-3d/assets/11053654/299a0398-7bd3-4b3c-a46c-00c06406f375)
 
-![ViewFromAtrium](https://github.com/araobp/blender-3d/assets/11053654/c233f7ae-905b-4213-8dd3-b308be4082b9)
+![ViewFromAtrium](https://github.com/araobp/blender-3d/assets/11053654/7b30a38f-3bd5-4960-9fcd-45013ed72aa5)
 
-https://github.com/araobp/blender-3d/assets/11053654/410dd785-50b3-4393-8345-e8e5880d1f2c
+![LivingRoom](https://github.com/araobp/blender-3d/assets/11053654/9a0a13dc-c230-4f81-bbc0-4d6d362bbcb0)
 
-![LivingRoom](https://github.com/araobp/blender-3d/assets/11053654/13ac0978-a6a7-4090-aed8-6d50c11c73fe)
+https://github.com/araobp/blender-3d/assets/11053654/58dea528-f0ec-4629-b276-738f03c6d72b
 
-https://github.com/araobp/blender-3d/assets/11053654/bb826492-3d82-4351-b8e3-0fe2b1b4a0d5
+https://github.com/araobp/blender-3d/assets/11053654/25b9f26c-d543-4408-a75f-494eac3b05eb
