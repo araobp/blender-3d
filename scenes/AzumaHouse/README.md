@@ -17,3 +17,5 @@ All the pictures and movies are rendered with EEVEE.
 https://github.com/araobp/blender-3d/assets/11053654/58dea528-f0ec-4629-b276-738f03c6d72b
 
 https://github.com/araobp/blender-3d/assets/11053654/25b9f26c-d543-4408-a75f-494eac3b05eb
+
+![SkyWatching](https://github.com/araobp/blender-3d/assets/11053654/57d8478b-d65f-44cd-aa14-bb4d19d48858)
