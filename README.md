@@ -29,7 +29,7 @@ I use Blender with MacBook Air M1 2020 for developing MVP (Minimum Viable Produc
 
 ### Panorama
 
-- https://araobp.github.io/blender-3d/panorama/
+- [Panorama](./panorama)
 
 ### Animations
 
