@@ -4,6 +4,8 @@ This folder contains pictures shoot in this Blender scene ["Azuma House"](https:
 
 ### Equirectangular
 
+This is a simulation of a 360 degree 8K photo image in the Equirectangular projection.
+
 https://araobp.github.io/blender-3d/panorama/
 
 ### Fisheye Equisolid 250 degrees
