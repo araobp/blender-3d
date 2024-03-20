@@ -1,6 +1,6 @@
 # Panorama
 
-This folder contains pictures shoot in this Blender scene ["Azuma House"](https://github.com/araobp/blender-3d/tree/main/scenes/AzumaHouse).
+This folder contains pictures shot in this Blender scene ["Azuma House"](https://github.com/araobp/blender-3d/tree/main/scenes/AzumaHouse).
 
 ### Equirectangular
 
