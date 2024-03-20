@@ -7,9 +7,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css"/>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js"></script>
     <style>
-    #panorama {
-        width: 50vw;
-        height: 50vh;
+    .panorama {
+        margin: 5px;
+        width: 500px;
+        height: 281px;
     }
     </style>
 </head>
@@ -17,11 +18,21 @@
 
 <h2 style="color: white;">Panorama: equirectangular projection</h2>
 
-<div id="panorama"></div>
+<div style="display: flex;">
+    <div class="panorama" id="panorama1"></div>
+    <div class="panorama" id="panorama2"></div>    
+</div>
+
 <script>
-pannellum.viewer('panorama', {
+pannellum.viewer('panorama1', {
     "type": "equirectangular",
     "panorama": "./equirectangular/AzumaHouse1.png",
+    autoLoad: true
+});
+
+pannellum.viewer('panorama2', {
+    "type": "equirectangular",
+    "panorama": "./equirectangular/AzumaHouse2.png",
     autoLoad: true
 });
 </script>
