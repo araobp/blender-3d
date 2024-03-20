@@ -17,6 +17,8 @@ Fog Glow, High, Size: 6
 
 https://araobp.github.io/blender-3d/panorama/
 
+Note: it is also possible to show the panorama locally by runing "server.sh" in the folder.
+
 ### Fisheye Equisolid 250 degrees
 
 The other day, I visited a shooting location where a 240-degree panoramic video was being filmed using the combination of [Entaniya H250](https://products.entaniya.co.jp/en/list/hal-250-series/) and [Blackmagic URSA Mini Pro 12K (with OLPF)](https://www.blackmagicdesign.com/products/blackmagicursaminipro) cameras. Below is a simulation of the shooting using a combination of a Fisheye 250-degree lens and an 8K image sensor.
