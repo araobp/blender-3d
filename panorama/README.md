@@ -6,6 +6,15 @@ This folder contains pictures shoot in this Blender scene ["Azuma House"](https:
 
 This is a simulation of a 360 degree 8K photo image in the Equirectangular projection.
 
+```
+Composition nodes:
+
+[Render Layers] -> [Glare] -> [Composite]
+
+<Glare parameters>
+Fog Glow, High, Size: 6
+```
+
 https://araobp.github.io/blender-3d/panorama/
 
 ### Fisheye Equisolid 250 degrees
