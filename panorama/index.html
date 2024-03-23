@@ -20,7 +20,8 @@
 
 <div style="display: flex;">
     <div class="panorama" id="panorama1"></div>
-    <div class="panorama" id="panorama2"></div>    
+    <div class="panorama" id="panorama2"></div> 
+    <div class="panorama" id="panorama3"></div> 
 </div>
 
 <script>
@@ -33,6 +34,12 @@ pannellum.viewer('panorama1', {
 pannellum.viewer('panorama2', {
     "type": "equirectangular",
     "panorama": "./equirectangular/AzumaHouse2.png",
+    autoLoad: true
+});
+
+pannellum.viewer('panorama3', {
+    "type": "equirectangular",
+    "panorama": "./equirectangular/AzumaHouse3.png",
     autoLoad: true
 });
 </script>
