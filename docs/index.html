@@ -41,72 +41,26 @@ Composition nodes:
 Fog Glow, High, Size: 6
 </pre>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div class="panorama" id="panorama1"></div>
-    <div class="panorama" id="panorama2"></div>
-    <div class="panorama" id="panorama3"></div>
-    <div class="panorama" id="panorama4"></div>    
-    <div class="panorama" id="panorama5"></div>
-    <div class="panorama" id="panorama6"></div>  
-    <div class="panorama" id="panorama7"></div>  
-    <div class="panorama" id="panorama8"></div>  
-    <div class="panorama" id="panorama9"></div>  
-</div>
+<div id="pano-grid" style="display: flex; flex-wrap: wrap;"></div>
 
 <script>
-pannellum.viewer('panorama1', {
-    "type": "equirectangular",
-    "panorama": "./equirectangular/AzumaHouse1.png",
-    autoLoad: true
-});
+    const pictures = ["AzumaHouse1", "AzumaHouse2", "AzumaHouse3", "AzumaHouse4",
+    "AzumaHouse5", "AzumaHouse6", "AzumaHouse7", "AzumaHouse8", "AzumaHouse9"];
 
-pannellum.viewer('panorama2', {
-    "type": "equirectangular",
-    "panorama": "./equirectangular/AzumaHouse2.png",
-    autoLoad: true
-});
+    const panorama = document.getElementById('pano-grid');
 
-pannellum.viewer('panorama3', {
-    "type": "equirectangular",
-    "panorama": "./equirectangular/AzumaHouse3.png",
-    autoLoad: true
-});
+    pictures.forEach(pic => {
+        const div = document.createElement('div');
+        div.setAttribute('class', 'panorama');
+        div.setAttribute('id', pic);
+        panorama.appendChild(div);
 
-pannellum.viewer('panorama4', {
-    "type": "equirectangular",
-    "panorama": "./equirectangular/AzumaHouse4.png",
-    autoLoad: true
-});
-
-pannellum.viewer('panorama5', {
-    "type": "equirectangular",
-    "panorama": "./equirectangular/AzumaHouse5.png",
-    autoLoad: true
-});
-
-pannellum.viewer('panorama6', {
-    "type": "equirectangular",
-    "panorama": "./equirectangular/AzumaHouse6.png",
-    autoLoad: true
-});
-
-pannellum.viewer('panorama7', {
-    "type": "equirectangular",
-    "panorama": "./equirectangular/AzumaHouse7.png",
-    autoLoad: true
-});
-
-pannellum.viewer('panorama8', {
-    "type": "equirectangular",
-    "panorama": "./equirectangular/AzumaHouse8.png",
-    autoLoad: true
-});
-
-pannellum.viewer('panorama9', {
-    "type": "equirectangular",
-    "panorama": "./equirectangular/AzumaHouse9.png",
-    autoLoad: true
-});
+        pannellum.viewer(pic, {
+            "type": "equirectangular",
+            "panorama": `./equirectangular/${pic}.png`,
+            "preview": `./equirectangular/${pic}_.jpg`
+        });        
+    })
 
 </script>
 
