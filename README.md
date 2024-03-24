@@ -29,7 +29,7 @@ I use Blender with MacBook Air M1 2020 for developing MVP (Minimum Viable Produc
 
 ### Panorama
 
-- [Panorama](./panorama)
+- [Panorama](./docs) (Work in progress)
 
 ### Animations
 
