@@ -2,12 +2,11 @@
 
 I use Blender with MacBook Air M1 2020 for developing MVP (Minimum Viable Product) to materialize a new idea at work. This repo is a collection of my hobby works made with Blender.
 
+## My original 3DCG works
 
-## Github Pages of this project
+## Panorama pictures
 
 https://araobp.github.io/blender-3d/
-
-## My original 3DCG works
 
 ### 3DCG scenes
 
