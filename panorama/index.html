@@ -9,7 +9,7 @@
     <style>
     .panorama {
         margin: 5px;
-        width: 33vw;;
+        width: 30vw;
         height: 30vh;
     }
     </style>
@@ -18,10 +18,11 @@
 
 <h2 style="color: white;">Panorama: equirectangular projection</h2>
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap;">
     <div class="panorama" id="panorama1"></div>
-    <div class="panorama" id="panorama2"></div> 
-    <div class="panorama" id="panorama3"></div> 
+    <div class="panorama" id="panorama2"></div>
+    <div class="panorama" id="panorama3"></div>
+    <div class="panorama" id="panorama4"></div>    
 </div>
 
 <script>
@@ -42,6 +43,13 @@ pannellum.viewer('panorama3', {
     "panorama": "./equirectangular/AzumaHouse3.png",
     autoLoad: true
 });
+
+pannellum.viewer('panorama4', {
+    "type": "equirectangular",
+    "panorama": "./equirectangular/AzumaHouse4.png",
+    autoLoad: true
+});
+
 </script>
 
 </body>
