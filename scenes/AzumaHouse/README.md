@@ -1,4 +1,4 @@
-# Azuma House (Work in Progress)
+# Azuma House
 
 The original IFC format BIM is on this site: https://openifcmodel.cs.auckland.ac.nz/
 
