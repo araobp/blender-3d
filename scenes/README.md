@@ -2,7 +2,7 @@
 
 ## Rendered with EEVEE
 
-- [Azuma House](AzumaHouse) (Work in progress)
+- [Azuma House](AzumaHouse)
 - [Dresdener Zwinger](Zwinger)
 - [Face Recogntion Gates](FaceRecognitionGates)
 
