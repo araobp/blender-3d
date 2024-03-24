@@ -2,12 +2,30 @@
 
 I use Blender with MacBook Air M1 2020 for developing MVP (Minimum Viable Product) to materialize a new idea at work. This repo is a collection of my hobby works made with Blender.
 
-
-## Github Pages of this project
-
-https://araobp.github.io/blender-3d/
+<table>
+  <tr>
+    <td>
+      <img src="./doc/SKYCAR.png" width=500>
+    </td>
+    <td>
+      <img src="./doc/coffee_break.png" width=500>
+    </td>
+  </tr>  
+    <tr>
+    <td>
+      <img src="./doc/UnitySkyCarTimeline24.png" width=500>
+    </td>
+    <td>
+      <img src="./doc/eevee_lighting.png" width=500>
+    </td>
+  </tr>
+</table>
 
 ## My original 3DCG works
+
+## Panorama pictures
+
+https://araobp.github.io/blender-3d/
 
 ### 3DCG scenes
 
