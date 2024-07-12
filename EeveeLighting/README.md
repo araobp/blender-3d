@@ -9,6 +9,22 @@ I used Reflection Cubemap, Reflection Plane and Irradiance Volume for indirect l
 
 Reference: [How to make Realtime Archviz with Blender and Eevee](https://youtu.be/2VNztZdfGZY)
 
+## New EEVEE (EEVEE NEXT)
+
+<img src="./eevee_lighting/EEVEE%20NEXT/Camera1.png" width=800>
+
+<img src="./eevee_lighting/EEVEE%20NEXT/Camera2.png" width=800>
+
+<img src="./eevee_lighting/EEVEE%20NEXT/Camera3.png" width=800>
+
+<img src="./eevee_lighting/EEVEE%20NEXT/Camera4.png" width=800>
+
+<img src="./eevee_lighting/EEVEE%20NEXT/Camera5.png" width=800>
+
+<img src="./eevee_lighting/EEVEE%20NEXT/Camera6.png" width=800>
+
+## Old EEVEE
+
 <img src="./eevee_lighting/Camera1.png" width=800>
 
 <img src="./eevee_lighting/Camera2.png" width=800>
