@@ -23,6 +23,10 @@ I use Blender with MacBook Air M1 2020 for developing MVP (Minimum Viable Produc
 
 ## My original 3DCG works
 
+## Testing EEVEE NEXT
+
+- [EEVEE_NEXT](./EeveeNext)
+
 ## Panorama pictures
 
 https://araobp.github.io/blender-3d/
