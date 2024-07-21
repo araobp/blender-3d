@@ -2,8 +2,8 @@
 
 ## Displacement Test
 
-<img src="./displacement_test.png" width=700>
+<img src="./displacement_test.png" width=800>
 
 ## HDRI Test
 
-<img src="./hdri_test.png" width=700>
+<img src="./hdri_test.png" width=800>
