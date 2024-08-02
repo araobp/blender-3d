@@ -1,4 +1,4 @@
-# Tesging EEVEE Next
+# Tesging EEVEE Next (Blender 4.2)
 
 ## Displacement Test
 
