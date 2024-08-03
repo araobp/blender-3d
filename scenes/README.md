@@ -2,6 +2,7 @@
 
 ## Rendered with EEVEE
 
+- [Blues Harp](BluesHarp) (Work in Progress)
 - [Azuma House](AzumaHouse)
 - [Dresdener Zwinger](Zwinger)
 - [Face Recogntion Gates](FaceRecognitionGates)

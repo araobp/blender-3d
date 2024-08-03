@@ -23,17 +23,13 @@ I use Blender with MacBook Air M1 2020 for developing MVP (Minimum Viable Produc
 
 ## My original 3DCG works
 
-## Testing EEVEE NEXT
+### 3DCG scenes
 
-- [EEVEE_NEXT](./EeveeNext)
+- [Scenes](./scenes)
 
 ## Panorama pictures
 
 https://araobp.github.io/blender-3d/
-
-### 3DCG scenes
-
-- [Scenes](./scenes)
 
 ### Animations
 
@@ -48,6 +44,10 @@ https://araobp.github.io/blender-3d/
 - [HDRI test](./hdri)
 - [Smoke](./smoke)
 - [Liquid](./liquid)
+
+## Testing EEVEE NEXT
+
+- [EEVEE Next](./EeveeNext)
 
 ### 3D models
 
