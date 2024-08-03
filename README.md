@@ -47,7 +47,7 @@ https://araobp.github.io/blender-3d/
 
 ## Testing EEVEE NEXT
 
-- [EEVEE_NEXT](./EeveeNext)
+- [EEVEE Next](./EeveeNext)
 
 ### 3D models
 
