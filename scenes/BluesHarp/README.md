@@ -15,5 +15,3 @@
 <img src="test/Camera3.png" width=600>
 
 <img src="test/Camera4.png" width=600>
-
-<img src="test/Camera5.png" width=600>
