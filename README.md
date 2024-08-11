@@ -16,7 +16,7 @@ I use Blender with MacBook Air M1 2020 for developing MVP (Minimum Viable Produc
       <img src="./doc/UnitySkyCarTimeline24.png" width=500>
     </td>
     <td>
-      <img src="./doc/eevee_lighting.png" width=500>
+      <img src="./doc/PlayingBluesHarp.png" width=500>
     </td>
   </tr>
 </table>
