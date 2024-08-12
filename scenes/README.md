@@ -2,7 +2,6 @@
 
 ## Rendered with EEVEE
 
-- [Blues Harp](BluesHarp) (Work in Progress)
 - [Walk-through Face Recognition](WalkThroughFaceRecognition)
 - [Azuma House](AzumaHouse)
 - [Dresdener Zwinger](Zwinger)
@@ -10,6 +9,7 @@
 
 ## Rendered with Cycles
 
+- [Blues Harp](BluesHarp) (Work in Progress)
 - [Coffee Break](CoffeeBreak)
 - [Theaterplatz Dresden](TheaterplatzDresden)
 
