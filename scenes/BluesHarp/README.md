@@ -8,10 +8,10 @@
 
 ## Playing Blues Harp with one hand
 
-<img src="test/Camera1.png" width=600>
+<img src="with_one_hand/Camera1.png" width=600>
 
-<img src="test/Camera2.png" width=600>
+<img src="with_one_hand/Camera2.png" width=600>
 
-<img src="test/Camera3.png" width=600>
+<img src="with_one_hand/Camera3.png" width=600>
 
-<img src="test/Camera4.png" width=600>
+<img src="with_one_hand/Camera4.png" width=600>
