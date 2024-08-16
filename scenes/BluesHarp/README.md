@@ -6,7 +6,7 @@
 
 <img src="bluesharp.jpg" width=600>
 
-## Test images
+## Playing Blues Harp with one hand
 
 <img src="test/Camera1.png" width=600>
 
