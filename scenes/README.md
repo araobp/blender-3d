@@ -2,7 +2,7 @@
 
 ## Rendered with EEVEE and Cycles
 
-- [Blues Harp](BluesHarp) (Work in Progress)
+- [Blues Harp](BluesHarp)
 - [Azuma House](AzumaHouse)
 
 ## Rendered with EEVEE
