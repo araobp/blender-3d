@@ -1,6 +1,6 @@
 # Scenes
 
-## Rendered with Cycles and EEVEE
+## Rendered with EEVEE and Cycles
 
 - [Blues Harp](BluesHarp) (Work in Progress)
 
