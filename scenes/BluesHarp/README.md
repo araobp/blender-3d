@@ -22,8 +22,6 @@
 
 <img src="with_both_hands/Camera7.png" width=600>
 
-<img src="with_both_hands/Camera8.png" width=600>
-
 <img src="with_both_hands/Camera9.png" width=600>
 
 ## Playing Blues Harp with one hand (Cycles rendering)
