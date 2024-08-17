@@ -1,13 +1,13 @@
 # Scenes
 
-## Rendered with Cycles and EEVEE
+## Rendered with EEVEE and Cycles
 
 - [Blues Harp](BluesHarp) (Work in Progress)
+- [Azuma House](AzumaHouse)
 
 ## Rendered with EEVEE
 
 - [Walk-through Face Recognition](WalkThroughFaceRecognition)
-- [Azuma House](AzumaHouse)
 - [Dresdener Zwinger](Zwinger)
 - [Face Recogntion Gates](FaceRecognitionGates)
 

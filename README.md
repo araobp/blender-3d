@@ -8,7 +8,7 @@ I use Blender with MacBook Air M1 2020 for developing MVP (Minimum Viable Produc
       <img src="./doc/SKYCAR.png" width=500>
     </td>
     <td>
-      <img src="./doc/coffee_break.jpg" width=500>
+      <img src="./doc/BluceHarpWithBothHands.png" width=500>
     </td>
   </tr>  
     <tr>
