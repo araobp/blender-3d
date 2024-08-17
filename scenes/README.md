@@ -1,5 +1,9 @@
 # Scenes
 
+## Rendered with Cycles and EEVEE
+
+- [Blues Harp](BluesHarp) (Work in Progress)
+
 ## Rendered with EEVEE
 
 - [Walk-through Face Recognition](WalkThroughFaceRecognition)
@@ -9,7 +13,6 @@
 
 ## Rendered with Cycles
 
-- [Blues Harp](BluesHarp) (Work in Progress)
 - [Coffee Break](CoffeeBreak)
 - [Theaterplatz Dresden](TheaterplatzDresden)
 
