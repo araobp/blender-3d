@@ -1,6 +1,10 @@
 # Blues Harp
 
-## Blues Harp
+## My Blues Harp: Easttop T008K C and Hohner Big River Harp G
+
+<img src="my_bluesharp.jpg" width=600>
+
+## Modeling Blues Harp
 
 <img src="bluesharp.jpg" width=600>
 
