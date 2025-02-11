@@ -64,6 +64,10 @@ https://araobp.github.io/blender-3d/
 
 - [Testing Blender's speakers](audio/speakers)
 
+### For marketing works
+
+- [Persona](./persona)
+
 ### Tips
 
 - [Tips](./tips)
