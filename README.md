@@ -64,7 +64,7 @@ https://araobp.github.io/blender-3d/
 
 - [Testing Blender's speakers](audio/speakers)
 
-### For Customer Experiences (Marketing)
+### For Customer Experiences (marketing)
 
 - [Personas](CustomerExperiences/personas)
 
